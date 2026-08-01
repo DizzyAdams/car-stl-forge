@@ -38,8 +38,10 @@ def main() -> None:
         if not candidate.exists():
             raise FileNotFoundError(candidate)
         models.append({**item, "slug": key, "brand": item.get("brand", ""),
-                       "stl": f"/models/{key}.stl",
-                       "print_solid_candidate": f"/models/{key}.print_solid_candidate.stl"})
+                       # primary mesh is the watertight print-ready solid (always printable)
+                       "stl": f"/models/{key}.print_solid_candidate.stl",
+                       "print_solid_candidate": f"/models/{key}.print_solid_candidate.stl",
+                       "raw_study": f"/models/{key}.stl"})
         (SITE / "models").mkdir(exist_ok=True)
         shutil.copy2(stl, SITE / "models" / f"{key}.stl")
         shutil.copy2(candidate, SITE / "models" / f"{key}.print_solid_candidate.stl")
@@ -130,7 +132,7 @@ function render(){const q=$('#search').value.toLowerCase(),b=$('#brand').value,b
   const items=models.filter(x=>(b==='all'||x.brand===b)&&(bo==='all'||x.bodyStyle===bo)&&(e==='all'||x.eraBand===e)&&(f==='all'||x.referenceFamily===f)&&(q===''||(x.brand+' '+x.model+' '+x.referenceFamily+' '+x.era).toLowerCase().includes(q)));
   $('#count').textContent=items.length+' modelos';
   if(view==='3d'){$('#list').classList.remove('hide');$('#gallery').classList.add('hide');const list=$('#list');list.innerHTML='';
-    items.forEach(it=>{const c=document.createElement('div');c.className='card';c.innerHTML=`<div><div class="meta">${it.brand} · ${it.year||''} · ${it.bodyStyle}</div><h3>${it.model}</h3><p>${it.traits?it.traits.join(', '):''}</p><div class="actions"><a class="primary" href="${it.stl}" download>STL</a><a href="${it.print_solid_candidate}" download>Print-ready</a></div></div><div class="sw" style="background:#${paint.toString(16).padStart(6,'0')}"></div>`;c.onclick=()=>{document.querySelectorAll('.card').forEach(x=>x.classList.remove('active'));c.classList.add('active');load(it)};list.appendChild(c)});
+    items.forEach(it=>{const c=document.createElement('div');c.className='card';c.innerHTML=`<div><div class="meta">${it.brand} · ${it.year||''} · ${it.bodyStyle}</div><h3>${it.model}</h3><p>${it.traits?it.traits.join(', '):''}</p><div class="actions"><a class="primary" href="${it.stl}" download>STL (print-ready)</a><a href="${it.raw_study}" download>Raw study</a></div></div><div class="sw" style="background:#${paint.toString(16).padStart(6,'0')}"></div>`;c.onclick=()=>{document.querySelectorAll('.card').forEach(x=>x.classList.remove('active'));c.classList.add('active');load(it)};list.appendChild(c)});
     if(items[0]&&!current){document.querySelectorAll('.card')[0].classList.add('active');load(items[0])}else if(items[0]&&current&&items.some(x=>x.slug===current.slug)){}else if(items[0]){load(items[0])}
   }else{$('#list').classList.add('hide');$('#gallery').classList.remove('hide');const g=$('#gallery');g.innerHTML='';
     items.forEach(it=>{const c=document.createElement('div');c.className='g';c.textContent=it.brand+' '+(it.model||'').slice(0,18);c.onclick=()=>load(it);g.appendChild(c)})}}
