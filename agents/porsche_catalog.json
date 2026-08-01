@@ -1,0 +1,2241 @@
+[
+  {
+    "brand": "Porsche",
+    "model": "356 Speedster",
+    "category": "sports-car",
+    "era": "classic",
+    "year": "1954",
+    "referenceFamily": "356",
+    "traits": [
+      "low roadster",
+      "rounded fenders",
+      "short windscreen"
+    ],
+    "description": "Original procedural study of the compact open-top Porsche archetype.",
+    "bodyStyle": "Roadster",
+    "drivetrain": "RWD",
+    "eraBand": "1960s–70s",
+    "slug": "porsche_356_speedster"
+  },
+  {
+    "brand": "Porsche",
+    "model": "550 Spyder",
+    "category": "sports-car",
+    "era": "classic",
+    "year": "1956",
+    "referenceFamily": "550",
+    "traits": [
+      "mid-engine spyder",
+      "minimal cockpit",
+      "tapered tail"
+    ],
+    "description": "Lightweight mid-engine racing silhouette study.",
+    "bodyStyle": "Roadster",
+    "drivetrain": "RWD",
+    "eraBand": "1960s–70s",
+    "slug": "porsche_550_spyder"
+  },
+  {
+    "brand": "Porsche",
+    "model": "911 Carrera RS 2.7",
+    "category": "sports-car",
+    "era": "classic",
+    "year": "1973",
+    "referenceFamily": "911",
+    "traits": [
+      "long hood",
+      "ducktail",
+      "wide arches"
+    ],
+    "description": "Classic air-cooled competition-inspired study.",
+    "bodyStyle": "Coupe",
+    "drivetrain": "RWD",
+    "eraBand": "1960s–70s",
+    "slug": "porsche_911_carrera_rs_2_7"
+  },
+  {
+    "brand": "Porsche",
+    "model": "911 Turbo 3.3",
+    "category": "sports-car",
+    "era": "classic",
+    "year": "1978",
+    "referenceFamily": "911",
+    "traits": [
+      "wide body",
+      "whale tail",
+      "sloping nose"
+    ],
+    "description": "Turbo-era widebody study.",
+    "bodyStyle": "Coupe",
+    "drivetrain": "RWD",
+    "eraBand": "1960s–70s",
+    "slug": "porsche_911_turbo_3_3"
+  },
+  {
+    "brand": "Porsche",
+    "model": "924 Carrera GT",
+    "category": "sports-car",
+    "era": "classic",
+    "year": "1981",
+    "referenceFamily": "924",
+    "traits": [
+      "front engine",
+      "pop-up lamp volumes",
+      "compact hatch"
+    ],
+    "description": "Front-engine transaxle coupe study.",
+    "bodyStyle": "Coupe",
+    "drivetrain": "RWD",
+    "eraBand": "1980s–90s",
+    "slug": "porsche_924_carrera_gt"
+  },
+  {
+    "brand": "Porsche",
+    "model": "944 Turbo",
+    "category": "sports-car",
+    "era": "classic",
+    "year": "1985",
+    "referenceFamily": "944",
+    "traits": [
+      "transaxle coupe",
+      "integrated bumpers",
+      "fastback glass"
+    ],
+    "description": "Balanced transaxle coupe study.",
+    "bodyStyle": "Coupe",
+    "drivetrain": "RWD",
+    "eraBand": "1980s–90s",
+    "slug": "porsche_944_turbo"
+  },
+  {
+    "brand": "Porsche",
+    "model": "959",
+    "category": "hypercar",
+    "era": "classic",
+    "year": "1986",
+    "referenceFamily": "959",
+    "traits": [
+      "advanced aero",
+      "rounded nose",
+      "technical vents"
+    ],
+    "description": "Technological all-wheel-drive supercar study.",
+    "bodyStyle": "Hypercar",
+    "drivetrain": "RWD",
+    "eraBand": "1980s–90s",
+    "slug": "porsche_959"
+  },
+  {
+    "brand": "Porsche",
+    "model": "928 GTS",
+    "category": "sports-car",
+    "era": "classic",
+    "year": "1992",
+    "referenceFamily": "928",
+    "traits": [
+      "front engine grand tourer",
+      "pop-up lamp pods",
+      "integrated spoiler"
+    ],
+    "description": "Grand touring fastback study.",
+    "bodyStyle": "Coupe",
+    "drivetrain": "RWD",
+    "eraBand": "1980s–90s",
+    "slug": "porsche_928_gts"
+  },
+  {
+    "brand": "Porsche",
+    "model": "911 GT1 Straßenversion",
+    "category": "hypercar",
+    "era": "motorsport",
+    "year": "1998",
+    "referenceFamily": "911 GT1",
+    "traits": [
+      "race-derived cabin",
+      "low nose",
+      "long tail"
+    ],
+    "description": "Endurance-racing silhouette study.",
+    "bodyStyle": "GT Coupe",
+    "drivetrain": "AWD",
+    "eraBand": "1980s–90s",
+    "slug": "porsche_911_gt1_stra_enversion"
+  },
+  {
+    "brand": "Porsche",
+    "model": "Carrera GT",
+    "category": "hypercar",
+    "era": "modern-classic",
+    "year": "2004",
+    "referenceFamily": "Carrera GT",
+    "traits": [
+      "carbon monocoque",
+      "open air intakes",
+      "high-revving stance"
+    ],
+    "description": "Analog V10 hypercar study.",
+    "bodyStyle": "GT Coupe",
+    "drivetrain": "Electric/Hybrid",
+    "eraBand": "2000s–10s",
+    "slug": "porsche_carrera_gt"
+  },
+  {
+    "brand": "Porsche",
+    "model": "Cayenne Turbo",
+    "category": "suv",
+    "era": "modern",
+    "year": "2003",
+    "referenceFamily": "Cayenne",
+    "traits": [
+      "high stance",
+      "fast roofline",
+      "wide shoulders"
+    ],
+    "description": "Performance SUV study.",
+    "bodyStyle": "SUV",
+    "drivetrain": "RWD",
+    "eraBand": "2000s–10s",
+    "slug": "porsche_cayenne_turbo"
+  },
+  {
+    "brand": "Porsche",
+    "model": "Cayman S",
+    "category": "sports-car",
+    "era": "modern",
+    "year": "2006",
+    "referenceFamily": "Cayman",
+    "traits": [
+      "mid-engine coupe",
+      "compact greenhouse",
+      "sculpted haunches"
+    ],
+    "description": "Mid-engine coupe study.",
+    "bodyStyle": "Coupe",
+    "drivetrain": "RWD",
+    "eraBand": "2000s–10s",
+    "slug": "porsche_cayman_s"
+  },
+  {
+    "brand": "Porsche",
+    "model": "Panamera Turbo",
+    "category": "sports-sedan",
+    "era": "modern",
+    "year": "2010",
+    "referenceFamily": "Panamera",
+    "traits": [
+      "four-door fastback",
+      "long wheelbase",
+      "low roof"
+    ],
+    "description": "Four-door grand touring study.",
+    "bodyStyle": "Sports Sedan",
+    "drivetrain": "RWD",
+    "eraBand": "2000s–10s",
+    "slug": "porsche_panamera_turbo"
+  },
+  {
+    "brand": "Porsche",
+    "model": "918 Spyder",
+    "category": "hypercar",
+    "era": "hybrid",
+    "year": "2013",
+    "referenceFamily": "918",
+    "traits": [
+      "hybrid hypercar",
+      "targa canopy",
+      "tall exhausts"
+    ],
+    "description": "Hybrid hypercar study.",
+    "bodyStyle": "Roadster",
+    "drivetrain": "Electric/Hybrid",
+    "eraBand": "2000s–10s",
+    "slug": "porsche_918_spyder"
+  },
+  {
+    "brand": "Porsche",
+    "model": "911 GT3 RS",
+    "category": "track-car",
+    "era": "modern",
+    "year": "2016",
+    "referenceFamily": "911",
+    "traits": [
+      "motorsport aero",
+      "center fin",
+      "large wing"
+    ],
+    "description": "Track-focused aero study.",
+    "bodyStyle": "Hypercar",
+    "drivetrain": "RWD",
+    "eraBand": "2015+",
+    "slug": "porsche_911_gt3_rs"
+  },
+  {
+    "brand": "Porsche",
+    "model": "718 Cayman GT4",
+    "category": "track-car",
+    "era": "modern",
+    "year": "2019",
+    "referenceFamily": "718",
+    "traits": [
+      "mid-engine coupe",
+      "fixed wing",
+      "low splitter"
+    ],
+    "description": "Compact track coupe study.",
+    "bodyStyle": "Hypercar",
+    "drivetrain": "RWD",
+    "eraBand": "2015+",
+    "slug": "porsche_718_cayman_gt4"
+  },
+  {
+    "brand": "Porsche",
+    "model": "Taycan Turbo S",
+    "category": "ev-sedan",
+    "era": "electric",
+    "year": "2020",
+    "referenceFamily": "Taycan",
+    "traits": [
+      "electric fastback",
+      "low hood",
+      "wraparound lamps"
+    ],
+    "description": "Electric performance sedan study.",
+    "bodyStyle": "Coupe",
+    "drivetrain": "Electric/Hybrid",
+    "eraBand": "2015+",
+    "slug": "porsche_taycan_turbo_s"
+  },
+  {
+    "brand": "Porsche",
+    "model": "911 Dakar",
+    "category": "offroad",
+    "era": "surreal",
+    "year": "2023",
+    "referenceFamily": "911",
+    "traits": [
+      "raised ride height",
+      "rally stance",
+      "roof rack"
+    ],
+    "description": "Rally-inspired sports car study.",
+    "bodyStyle": "Off-road",
+    "drivetrain": "RWD",
+    "eraBand": "2015+",
+    "slug": "porsche_911_dakar"
+  },
+  {
+    "brand": "Porsche",
+    "model": "911 S/T",
+    "category": "sports-car",
+    "era": "modern",
+    "year": "2024",
+    "referenceFamily": "911",
+    "traits": [
+      "lightweight body",
+      "heritage proportions",
+      "minimal aero"
+    ],
+    "description": "Lightweight road-focused study.",
+    "bodyStyle": "Coupe",
+    "drivetrain": "RWD",
+    "eraBand": "2015+",
+    "slug": "porsche_911_s_t"
+  },
+  {
+    "brand": "Porsche",
+    "model": "718 Spyder RS",
+    "category": "track-car",
+    "era": "modern",
+    "year": "2025",
+    "referenceFamily": "718",
+    "traits": [
+      "open cockpit",
+      "high downforce",
+      "compact proportions"
+    ],
+    "description": "Open-top track study based on the current official model family.",
+    "bodyStyle": "Roadster",
+    "drivetrain": "RWD",
+    "eraBand": "2015+",
+    "slug": "porsche_718_spyder_rs"
+  },
+  {
+    "brand": "Porsche",
+    "model": "911 Carrera",
+    "category": "sports-car",
+    "era": "current",
+    "year": "2027",
+    "referenceFamily": "911",
+    "traits": [
+      "rear-engine fastback",
+      "round lamps",
+      "wide haunches"
+    ],
+    "description": "Current 911 family procedural study.",
+    "bodyStyle": "Coupe",
+    "drivetrain": "RWD",
+    "eraBand": "2015+",
+    "slug": "porsche_911_carrera"
+  },
+  {
+    "brand": "Porsche",
+    "model": "911 Turbo S",
+    "category": "hypercar",
+    "era": "current",
+    "year": "2026",
+    "referenceFamily": "911",
+    "traits": [
+      "active aero",
+      "wide stance",
+      "high-output silhouette"
+    ],
+    "description": "High-performance 911 procedural study.",
+    "bodyStyle": "Hypercar",
+    "drivetrain": "RWD",
+    "eraBand": "2015+",
+    "slug": "porsche_911_turbo_s"
+  },
+  {
+    "brand": "Porsche",
+    "model": "Macan Electric",
+    "category": "suv",
+    "era": "electric",
+    "year": "2027",
+    "referenceFamily": "Macan",
+    "traits": [
+      "electric SUV",
+      "fast roofline",
+      "technical lamp signature"
+    ],
+    "description": "Current official electric SUV family procedural study.",
+    "bodyStyle": "SUV",
+    "drivetrain": "Electric/Hybrid",
+    "eraBand": "2015+",
+    "slug": "porsche_macan_electric"
+  },
+  {
+    "brand": "Porsche",
+    "model": "Cayenne Electric",
+    "category": "suv",
+    "era": "electric",
+    "year": "2026",
+    "referenceFamily": "Cayenne",
+    "traits": [
+      "large electric SUV",
+      "upright stance",
+      "smooth aero surfaces"
+    ],
+    "description": "Current official electric SUV family procedural study.",
+    "bodyStyle": "SUV",
+    "drivetrain": "Electric/Hybrid",
+    "eraBand": "2015+",
+    "slug": "porsche_cayenne_electric"
+  },
+  {
+    "brand": "Porsche",
+    "model": "Panamera",
+    "category": "sports-sedan",
+    "era": "current",
+    "year": "2027",
+    "referenceFamily": "Panamera",
+    "traits": [
+      "four-door fastback",
+      "low greenhouse",
+      "broad shoulders"
+    ],
+    "description": "Current official sport saloon family procedural study.",
+    "bodyStyle": "Sports Sedan",
+    "drivetrain": "RWD",
+    "eraBand": "2015+",
+    "slug": "porsche_panamera"
+  },
+  {
+    "brand": "Porsche",
+    "model": "718 Boxster",
+    "category": "sports-car",
+    "era": "modern",
+    "year": "2017",
+    "referenceFamily": "718",
+    "traits": [
+      "mid-engine roadster",
+      "short deck",
+      "sculpted side intakes"
+    ],
+    "description": "Mid-engine roadster study with a compact, low cockpit.",
+    "bodyStyle": "Roadster",
+    "drivetrain": "RWD",
+    "eraBand": "2015+",
+    "slug": "porsche_718_boxster"
+  },
+  {
+    "brand": "Porsche",
+    "model": "718 Cayman GTS 4.0",
+    "category": "sports-car",
+    "era": "modern",
+    "year": "2021",
+    "referenceFamily": "718",
+    "traits": [
+      "mid-engine coupe",
+      "naturally aspirated stance",
+      "wide shoulders"
+    ],
+    "description": "Road-focused flat-six coupe study.",
+    "bodyStyle": "Coupe",
+    "drivetrain": "RWD",
+    "eraBand": "2015+",
+    "slug": "porsche_718_cayman_gts_4_0"
+  },
+  {
+    "brand": "Porsche",
+    "model": "911 Targa 4 GTS",
+    "category": "sports-car",
+    "era": "current",
+    "year": "2025",
+    "referenceFamily": "911",
+    "traits": [
+      "targa roof",
+      "rear-engine fastback",
+      "wide rear haunches"
+    ],
+    "description": "Open-roof 911 family study with a rigid roof signature.",
+    "bodyStyle": "Roadster",
+    "drivetrain": "RWD",
+    "eraBand": "2015+",
+    "slug": "porsche_911_targa_4_gts"
+  },
+  {
+    "brand": "Porsche",
+    "model": "911 GT3 Touring",
+    "category": "track-car",
+    "era": "current",
+    "year": "2025",
+    "referenceFamily": "911",
+    "traits": [
+      "swan-neck delete",
+      "low splitter",
+      "motorsport stance"
+    ],
+    "description": "Road-focused track study with restrained aero.",
+    "bodyStyle": "Hypercar",
+    "drivetrain": "RWD",
+    "eraBand": "2015+",
+    "slug": "porsche_911_gt3_touring"
+  },
+  {
+    "brand": "Porsche",
+    "model": "911 Carrera T",
+    "category": "sports-car",
+    "era": "current",
+    "year": "2025",
+    "referenceFamily": "911",
+    "traits": [
+      "lightweight touring",
+      "rear-drive stance",
+      "minimal trim"
+    ],
+    "description": "Lightweight driver-focused 911 study.",
+    "bodyStyle": "Coupe",
+    "drivetrain": "RWD",
+    "eraBand": "2015+",
+    "slug": "porsche_911_carrera_t"
+  },
+  {
+    "brand": "Porsche",
+    "model": "911 Turbo Cabriolet",
+    "category": "sports-car",
+    "era": "current",
+    "year": "2025",
+    "referenceFamily": "911",
+    "traits": [
+      "convertible roof",
+      "wide body",
+      "active aero"
+    ],
+    "description": "Open-top high-performance 911 study.",
+    "bodyStyle": "Roadster",
+    "drivetrain": "RWD",
+    "eraBand": "2015+",
+    "slug": "porsche_911_turbo_cabriolet"
+  },
+  {
+    "brand": "Porsche",
+    "model": "Taycan Cross Turismo",
+    "category": "offroad",
+    "era": "electric",
+    "year": "2025",
+    "referenceFamily": "Taycan",
+    "traits": [
+      "electric shooting brake",
+      "raised stance",
+      "dark cladding"
+    ],
+    "description": "Electric performance wagon study with adventure bias.",
+    "bodyStyle": "Off-road",
+    "drivetrain": "Electric/Hybrid",
+    "eraBand": "2015+",
+    "slug": "porsche_taycan_cross_turismo"
+  },
+  {
+    "brand": "Porsche",
+    "model": "Taycan GTS",
+    "category": "ev-sedan",
+    "era": "electric",
+    "year": "2025",
+    "referenceFamily": "Taycan",
+    "traits": [
+      "electric fastback",
+      "sport tuning",
+      "low nose"
+    ],
+    "description": "Performance electric sedan study.",
+    "bodyStyle": "Coupe",
+    "drivetrain": "Electric/Hybrid",
+    "eraBand": "2015+",
+    "slug": "porsche_taycan_gts"
+  },
+  {
+    "brand": "Porsche",
+    "model": "Macan GTS",
+    "category": "suv",
+    "era": "modern",
+    "year": "2025",
+    "referenceFamily": "Macan",
+    "traits": [
+      "compact performance SUV",
+      "fast roofline",
+      "wide stance"
+    ],
+    "description": "Compact performance SUV study.",
+    "bodyStyle": "SUV",
+    "drivetrain": "RWD",
+    "eraBand": "2015+",
+    "slug": "porsche_macan_gts"
+  },
+  {
+    "brand": "Porsche",
+    "model": "Cayenne Coupe GTS",
+    "category": "suv",
+    "era": "modern",
+    "year": "2025",
+    "referenceFamily": "Cayenne",
+    "traits": [
+      "coupe SUV",
+      "low roof",
+      "wide shoulders"
+    ],
+    "description": "Sporting coupe-SUV study.",
+    "bodyStyle": "SUV",
+    "drivetrain": "RWD",
+    "eraBand": "2015+",
+    "slug": "porsche_cayenne_coupe_gts"
+  },
+  {
+    "brand": "Porsche",
+    "model": "Panamera GTS",
+    "category": "sports-sedan",
+    "era": "current",
+    "year": "2025",
+    "referenceFamily": "Panamera",
+    "traits": [
+      "four-door fastback",
+      "sport exhaust rhythm",
+      "low greenhouse"
+    ],
+    "description": "Performance fastback sedan study.",
+    "bodyStyle": "Sports Sedan",
+    "drivetrain": "RWD",
+    "eraBand": "2015+",
+    "slug": "porsche_panamera_gts"
+  },
+  {
+    "brand": "Porsche",
+    "model": "718 Boxster Spyder",
+    "category": "track-car",
+    "era": "modern",
+    "year": "2020",
+    "referenceFamily": "718",
+    "traits": [
+      "open cockpit",
+      "fixed rear cover",
+      "low aero"
+    ],
+    "description": "Lightweight open-top sports study.",
+    "bodyStyle": "Roadster",
+    "drivetrain": "RWD",
+    "eraBand": "2015+",
+    "slug": "porsche_718_boxster_spyder"
+  },
+  {
+    "brand": "Ferrari",
+    "model": "250 GTO",
+    "category": "sports-car",
+    "era": "classic",
+    "year": "1962",
+    "referenceFamily": "250",
+    "traits": [
+      "long hood",
+      "fastback",
+      "fenders"
+    ],
+    "description": "Original procedural study of the 250 GTO.",
+    "bodyStyle": "Coupe",
+    "drivetrain": "RWD",
+    "eraBand": "1960s–70s",
+    "slug": "ferrari_250_gto"
+  },
+  {
+    "brand": "Ferrari",
+    "model": "Testarossa",
+    "category": "sports-car",
+    "era": "modern-classic",
+    "year": "1984",
+    "referenceFamily": "Testarossa",
+    "traits": [
+      "flat side intakes",
+      "wedge",
+      "wide tail"
+    ],
+    "description": "Original procedural study of the Testarossa.",
+    "bodyStyle": "Coupe",
+    "drivetrain": "RWD",
+    "eraBand": "1980s–90s",
+    "slug": "ferrari_testarossa"
+  },
+  {
+    "brand": "Ferrari",
+    "model": "F40",
+    "category": "supercar",
+    "era": "modern-classic",
+    "year": "1987",
+    "referenceFamily": "F40",
+    "traits": [
+      "twin-turbo",
+      "race-derived",
+      "fixed wing"
+    ],
+    "description": "Original procedural study of the F40.",
+    "bodyStyle": "Supercar",
+    "drivetrain": "RWD",
+    "eraBand": "1980s–90s",
+    "slug": "ferrari_f40"
+  },
+  {
+    "brand": "Ferrari",
+    "model": "F50",
+    "category": "supercar",
+    "era": "modern-classic",
+    "year": "1995",
+    "referenceFamily": "F50",
+    "traits": [
+      "open-top barchetta",
+      "high deck"
+    ],
+    "description": "Original procedural study of the F50.",
+    "bodyStyle": "Roadster",
+    "drivetrain": "RWD",
+    "eraBand": "1980s–90s",
+    "slug": "ferrari_f50"
+  },
+  {
+    "brand": "Ferrari",
+    "model": "Enzo",
+    "category": "hypercar",
+    "era": "current",
+    "year": "2002",
+    "referenceFamily": "Enzo",
+    "traits": [
+      "canopy",
+      "sculpted intakes"
+    ],
+    "description": "Original procedural study of the Enzo.",
+    "bodyStyle": "Hypercar",
+    "drivetrain": "RWD",
+    "eraBand": "2000s–10s",
+    "slug": "ferrari_enzo"
+  },
+  {
+    "brand": "Ferrari",
+    "model": "LaFerrari",
+    "category": "hypercar",
+    "era": "current",
+    "year": "2013",
+    "referenceFamily": "LaFerrari",
+    "traits": [
+      "hybrid teardrop",
+      "active aero"
+    ],
+    "description": "Original procedural study of the LaFerrari.",
+    "bodyStyle": "Hypercar",
+    "drivetrain": "Electric/Hybrid",
+    "eraBand": "2000s–10s",
+    "slug": "ferrari_laferrari"
+  },
+  {
+    "brand": "Ferrari",
+    "model": "488 GTB",
+    "category": "supercar",
+    "era": "current",
+    "year": "2015",
+    "referenceFamily": "488",
+    "traits": [
+      "twin-turbo",
+      "rounded fenders"
+    ],
+    "description": "Original procedural study of the 488 GTB.",
+    "bodyStyle": "Supercar",
+    "drivetrain": "RWD",
+    "eraBand": "2015+",
+    "slug": "ferrari_488_gtb"
+  },
+  {
+    "brand": "Ferrari",
+    "model": "SF90 Stradale",
+    "category": "hybrid",
+    "era": "current",
+    "year": "2019",
+    "referenceFamily": "SF90",
+    "traits": [
+      "plug-in hybrid",
+      "wide stance"
+    ],
+    "description": "Original procedural study of the SF90 Stradale.",
+    "bodyStyle": "Hybrid GT",
+    "drivetrain": "Electric/Hybrid",
+    "eraBand": "2015+",
+    "slug": "ferrari_sf90_stradale"
+  },
+  {
+    "brand": "Ferrari",
+    "model": "Roma",
+    "category": "sports-car",
+    "era": "current",
+    "year": "2020",
+    "referenceFamily": "Roma",
+    "traits": [
+      "elegant GT",
+      "shooting-profile"
+    ],
+    "description": "Original procedural study of the Roma.",
+    "bodyStyle": "Coupe",
+    "drivetrain": "RWD",
+    "eraBand": "2015+",
+    "slug": "ferrari_roma"
+  },
+  {
+    "brand": "Ferrari",
+    "model": "Daytona SP3",
+    "category": "hypercar",
+    "era": "current",
+    "year": "2021",
+    "referenceFamily": "Daytona",
+    "traits": [
+      "targa",
+      "retro race"
+    ],
+    "description": "Original procedural study of the Daytona SP3.",
+    "bodyStyle": "Roadster",
+    "drivetrain": "RWD",
+    "eraBand": "2015+",
+    "slug": "ferrari_daytona_sp3"
+  },
+  {
+    "brand": "Lamborghini",
+    "model": "Miura",
+    "category": "sports-car",
+    "era": "classic",
+    "year": "1966",
+    "referenceFamily": "Miura",
+    "traits": [
+      "mid-engine",
+      "low nose"
+    ],
+    "description": "Original procedural study of the Miura.",
+    "bodyStyle": "Coupe",
+    "drivetrain": "RWD",
+    "eraBand": "1960s–70s",
+    "slug": "lamborghini_miura"
+  },
+  {
+    "brand": "Lamborghini",
+    "model": "Countach",
+    "category": "supercar",
+    "era": "modern-classic",
+    "year": "1974",
+    "referenceFamily": "Countach",
+    "traits": [
+      "wedge",
+      "scissor lines",
+      "haunches"
+    ],
+    "description": "Original procedural study of the Countach.",
+    "bodyStyle": "Supercar",
+    "drivetrain": "RWD",
+    "eraBand": "1960s–70s",
+    "slug": "lamborghini_countach"
+  },
+  {
+    "brand": "Lamborghini",
+    "model": "Diablo",
+    "category": "supercar",
+    "era": "modern-classic",
+    "year": "1990",
+    "referenceFamily": "Diablo",
+    "traits": [
+      "wide body",
+      "low cabin"
+    ],
+    "description": "Original procedural study of the Diablo.",
+    "bodyStyle": "Supercar",
+    "drivetrain": "RWD",
+    "eraBand": "1980s–90s",
+    "slug": "lamborghini_diablo"
+  },
+  {
+    "brand": "Lamborghini",
+    "model": "Murcielago",
+    "category": "supercar",
+    "era": "current",
+    "year": "2001",
+    "referenceFamily": "Murcielago",
+    "traits": [
+      "angular",
+      "large intakes"
+    ],
+    "description": "Original procedural study of the Murcielago.",
+    "bodyStyle": "Supercar",
+    "drivetrain": "RWD",
+    "eraBand": "2000s–10s",
+    "slug": "lamborghini_murcielago"
+  },
+  {
+    "brand": "Lamborghini",
+    "model": "Gallardo",
+    "category": "supercar",
+    "era": "current",
+    "year": "2003",
+    "referenceFamily": "Gallardo",
+    "traits": [
+      "compact",
+      "sharp"
+    ],
+    "description": "Original procedural study of the Gallardo.",
+    "bodyStyle": "Supercar",
+    "drivetrain": "RWD",
+    "eraBand": "2000s–10s",
+    "slug": "lamborghini_gallardo"
+  },
+  {
+    "brand": "Lamborghini",
+    "model": "Aventador",
+    "category": "supercar",
+    "era": "current",
+    "year": "2011",
+    "referenceFamily": "Aventador",
+    "traits": [
+      "Y-pattern",
+      "extreme wedge"
+    ],
+    "description": "Original procedural study of the Aventador.",
+    "bodyStyle": "Supercar",
+    "drivetrain": "RWD",
+    "eraBand": "2000s–10s",
+    "slug": "lamborghini_aventador"
+  },
+  {
+    "brand": "Lamborghini",
+    "model": "Huracan",
+    "category": "supercar",
+    "era": "current",
+    "year": "2014",
+    "referenceFamily": "Huracan",
+    "traits": [
+      "hexagon motifs",
+      "low"
+    ],
+    "description": "Original procedural study of the Huracan.",
+    "bodyStyle": "Supercar",
+    "drivetrain": "RWD",
+    "eraBand": "2000s–10s",
+    "slug": "lamborghini_huracan"
+  },
+  {
+    "brand": "Lamborghini",
+    "model": "Sián",
+    "category": "hybrid",
+    "era": "current",
+    "year": "2019",
+    "referenceFamily": "Sian",
+    "traits": [
+      "supercapacitor hybrid",
+      "shark fin"
+    ],
+    "description": "Original procedural study of the Sián.",
+    "bodyStyle": "Hybrid GT",
+    "drivetrain": "Electric/Hybrid",
+    "eraBand": "2015+",
+    "slug": "lamborghini_si_n"
+  },
+  {
+    "brand": "Lamborghini",
+    "model": "Urus",
+    "category": "suv",
+    "era": "current",
+    "year": "2018",
+    "referenceFamily": "Urus",
+    "traits": [
+      "super SUV",
+      "wide"
+    ],
+    "description": "Original procedural study of the Urus.",
+    "bodyStyle": "SUV",
+    "drivetrain": "RWD",
+    "eraBand": "2015+",
+    "slug": "lamborghini_urus"
+  },
+  {
+    "brand": "McLaren",
+    "model": "F1",
+    "category": "supercar",
+    "era": "modern-classic",
+    "year": "1992",
+    "referenceFamily": "F1",
+    "traits": [
+      "three-seat",
+      "teardrop cabin"
+    ],
+    "description": "Original procedural study of the F1.",
+    "bodyStyle": "Supercar",
+    "drivetrain": "RWD",
+    "eraBand": "1980s–90s",
+    "slug": "mclaren_f1"
+  },
+  {
+    "brand": "McLaren",
+    "model": "P1",
+    "category": "hypercar",
+    "era": "current",
+    "year": "2013",
+    "referenceFamily": "P1",
+    "traits": [
+      "canopy",
+      "active aero"
+    ],
+    "description": "Original procedural study of the P1.",
+    "bodyStyle": "Hypercar",
+    "drivetrain": "RWD",
+    "eraBand": "2000s–10s",
+    "slug": "mclaren_p1"
+  },
+  {
+    "brand": "McLaren",
+    "model": "720S",
+    "category": "supercar",
+    "era": "current",
+    "year": "2017",
+    "referenceFamily": "720S",
+    "traits": [
+      "dihedral doors",
+      "sculpted"
+    ],
+    "description": "Original procedural study of the 720S.",
+    "bodyStyle": "Supercar",
+    "drivetrain": "RWD",
+    "eraBand": "2015+",
+    "slug": "mclaren_720s"
+  },
+  {
+    "brand": "McLaren",
+    "model": "Senna",
+    "category": "track-car",
+    "era": "current",
+    "year": "2018",
+    "referenceFamily": "Senna",
+    "traits": [
+      "extreme aero",
+      "bare function"
+    ],
+    "description": "Original procedural study of the Senna.",
+    "bodyStyle": "Hypercar",
+    "drivetrain": "RWD",
+    "eraBand": "2015+",
+    "slug": "mclaren_senna"
+  },
+  {
+    "brand": "McLaren",
+    "model": "Artura",
+    "category": "hybrid",
+    "era": "current",
+    "year": "2021",
+    "referenceFamily": "Artura",
+    "traits": [
+      "compact hybrid",
+      "modern"
+    ],
+    "description": "Original procedural study of the Artura.",
+    "bodyStyle": "Hybrid GT",
+    "drivetrain": "Electric/Hybrid",
+    "eraBand": "2015+",
+    "slug": "mclaren_artura"
+  },
+  {
+    "brand": "BMW",
+    "model": "M1",
+    "category": "sports-car",
+    "era": "modern-classic",
+    "year": "1978",
+    "referenceFamily": "M1",
+    "traits": [
+      "mid-engine",
+      "wedge"
+    ],
+    "description": "Original procedural study of the M1.",
+    "bodyStyle": "Coupe",
+    "drivetrain": "RWD",
+    "eraBand": "1960s–70s",
+    "slug": "bmw_m1"
+  },
+  {
+    "brand": "BMW",
+    "model": "E30 M3",
+    "category": "sports-sedan",
+    "era": "modern-classic",
+    "year": "1986",
+    "referenceFamily": "E30",
+    "traits": [
+      "box flares",
+      "saloon"
+    ],
+    "description": "Original procedural study of the E30 M3.",
+    "bodyStyle": "Sports Sedan",
+    "drivetrain": "RWD",
+    "eraBand": "1980s–90s",
+    "slug": "bmw_e30_m3"
+  },
+  {
+    "brand": "BMW",
+    "model": "M3",
+    "category": "sports-sedan",
+    "era": "current",
+    "year": "2000",
+    "referenceFamily": "E46",
+    "traits": [
+      "four-door",
+      "balanced"
+    ],
+    "description": "Original procedural study of the M3.",
+    "bodyStyle": "Sports Sedan",
+    "drivetrain": "RWD",
+    "eraBand": "2000s–10s",
+    "slug": "bmw_m3"
+  },
+  {
+    "brand": "BMW",
+    "model": "M5",
+    "category": "sports-sedan",
+    "era": "current",
+    "year": "2005",
+    "referenceFamily": "M5",
+    "traits": [
+      "saloon muscle",
+      "wide"
+    ],
+    "description": "Original procedural study of the M5.",
+    "bodyStyle": "Sports Sedan",
+    "drivetrain": "RWD",
+    "eraBand": "2000s–10s",
+    "slug": "bmw_m5"
+  },
+  {
+    "brand": "BMW",
+    "model": "M4",
+    "category": "sports-sedan",
+    "era": "current",
+    "year": "2014",
+    "referenceFamily": "M4",
+    "traits": [
+      "coupe",
+      "aggressive nose"
+    ],
+    "description": "Original procedural study of the M4.",
+    "bodyStyle": "Sports Sedan",
+    "drivetrain": "RWD",
+    "eraBand": "2000s–10s",
+    "slug": "bmw_m4"
+  },
+  {
+    "brand": "BMW",
+    "model": "i8",
+    "category": "hybrid",
+    "era": "current",
+    "year": "2014",
+    "referenceFamily": "i8",
+    "traits": [
+      "butterfly doors",
+      "low hybrid"
+    ],
+    "description": "Original procedural study of the i8.",
+    "bodyStyle": "Hybrid GT",
+    "drivetrain": "Electric/Hybrid",
+    "eraBand": "2000s–10s",
+    "slug": "bmw_i8"
+  },
+  {
+    "brand": "BMW",
+    "model": "X5 M",
+    "category": "suv",
+    "era": "current",
+    "year": "2009",
+    "referenceFamily": "X5",
+    "traits": [
+      "performance SUV",
+      "tall"
+    ],
+    "description": "Original procedural study of the X5 M.",
+    "bodyStyle": "SUV",
+    "drivetrain": "RWD",
+    "eraBand": "2000s–10s",
+    "slug": "bmw_x5_m"
+  },
+  {
+    "brand": "Mercedes-AMG",
+    "model": "300 SL",
+    "category": "sports-car",
+    "era": "classic",
+    "year": "1954",
+    "referenceFamily": "300SL",
+    "traits": [
+      "gullwing",
+      "long nose"
+    ],
+    "description": "Original procedural study of the 300 SL.",
+    "bodyStyle": "Coupe",
+    "drivetrain": "RWD",
+    "eraBand": "1960s–70s",
+    "slug": "mercedes_amg_300_sl"
+  },
+  {
+    "brand": "Mercedes-AMG",
+    "model": "SLS AMG",
+    "category": "sports-car",
+    "era": "current",
+    "year": "2009",
+    "referenceFamily": "SLS",
+    "traits": [
+      "gullwing",
+      "long hood"
+    ],
+    "description": "Original procedural study of the SLS AMG.",
+    "bodyStyle": "Coupe",
+    "drivetrain": "RWD",
+    "eraBand": "2000s–10s",
+    "slug": "mercedes_amg_sls_amg"
+  },
+  {
+    "brand": "Mercedes-AMG",
+    "model": "AMG GT",
+    "category": "sports-car",
+    "era": "current",
+    "year": "2014",
+    "referenceFamily": "AMGGT",
+    "traits": [
+      "long nose",
+      "fastback"
+    ],
+    "description": "Original procedural study of the AMG GT.",
+    "bodyStyle": "GT Coupe",
+    "drivetrain": "RWD",
+    "eraBand": "2000s–10s",
+    "slug": "mercedes_amg_amg_gt"
+  },
+  {
+    "brand": "Mercedes-AMG",
+    "model": "G63",
+    "category": "suv",
+    "era": "current",
+    "year": "2018",
+    "referenceFamily": "G63",
+    "traits": [
+      "boxy",
+      "military"
+    ],
+    "description": "Original procedural study of the G63.",
+    "bodyStyle": "SUV",
+    "drivetrain": "RWD",
+    "eraBand": "2015+",
+    "slug": "mercedes_amg_g63"
+  },
+  {
+    "brand": "Mercedes-AMG",
+    "model": "E63",
+    "category": "sports-sedan",
+    "era": "current",
+    "year": "2017",
+    "referenceFamily": "E63",
+    "traits": [
+      "saloon",
+      "wide"
+    ],
+    "description": "Original procedural study of the E63.",
+    "bodyStyle": "Sports Sedan",
+    "drivetrain": "RWD",
+    "eraBand": "2015+",
+    "slug": "mercedes_amg_e63"
+  },
+  {
+    "brand": "Mercedes-AMG",
+    "model": "Project One",
+    "category": "hypercar",
+    "era": "current",
+    "year": "2019",
+    "referenceFamily": "One",
+    "traits": [
+      "F1 hybrid",
+      "big wing"
+    ],
+    "description": "Original procedural study of the Project One.",
+    "bodyStyle": "Hypercar",
+    "drivetrain": "Electric/Hybrid",
+    "eraBand": "2015+",
+    "slug": "mercedes_amg_project_one"
+  },
+  {
+    "brand": "Audi",
+    "model": "Quattro",
+    "category": "sports-car",
+    "era": "modern-classic",
+    "year": "1980",
+    "referenceFamily": "Quattro",
+    "traits": [
+      "boxy rally",
+      "flares"
+    ],
+    "description": "Original procedural study of the Quattro.",
+    "bodyStyle": "Coupe",
+    "drivetrain": "RWD",
+    "eraBand": "1980s–90s",
+    "slug": "audi_quattro"
+  },
+  {
+    "brand": "Audi",
+    "model": "TT",
+    "category": "sports-car",
+    "era": "current",
+    "year": "1998",
+    "referenceFamily": "TT",
+    "traits": [
+      "rounded",
+      "compact"
+    ],
+    "description": "Original procedural study of the TT.",
+    "bodyStyle": "Coupe",
+    "drivetrain": "RWD",
+    "eraBand": "1980s–90s",
+    "slug": "audi_tt"
+  },
+  {
+    "brand": "Audi",
+    "model": "R8",
+    "category": "supercar",
+    "era": "current",
+    "year": "2006",
+    "referenceFamily": "R8",
+    "traits": [
+      "wide haunches",
+      "side blade"
+    ],
+    "description": "Original procedural study of the R8.",
+    "bodyStyle": "Supercar",
+    "drivetrain": "RWD",
+    "eraBand": "2000s–10s",
+    "slug": "audi_r8"
+  },
+  {
+    "brand": "Audi",
+    "model": "RS6 Avant",
+    "category": "sports-sedan",
+    "era": "current",
+    "year": "2002",
+    "referenceFamily": "RS6",
+    "traits": [
+      "wagon",
+      "wide"
+    ],
+    "description": "Original procedural study of the RS6 Avant.",
+    "bodyStyle": "Sports Sedan",
+    "drivetrain": "RWD",
+    "eraBand": "2000s–10s",
+    "slug": "audi_rs6_avant"
+  },
+  {
+    "brand": "Audi",
+    "model": "RS e-tron GT",
+    "category": "electric",
+    "era": "current",
+    "year": "2021",
+    "referenceFamily": "eTron",
+    "traits": [
+      "EV fastback",
+      "smooth"
+    ],
+    "description": "Original procedural study of the RS e-tron GT.",
+    "bodyStyle": "EV GT",
+    "drivetrain": "Electric/Hybrid",
+    "eraBand": "2015+",
+    "slug": "audi_rs_e_tron_gt"
+  },
+  {
+    "brand": "Ford",
+    "model": "Mustang 1965",
+    "category": "sports-car",
+    "era": "classic",
+    "year": "1965",
+    "referenceFamily": "Mustang",
+    "traits": [
+      "pony car",
+      "long hood"
+    ],
+    "description": "Original procedural study of the Mustang 1965.",
+    "bodyStyle": "Coupe",
+    "drivetrain": "RWD",
+    "eraBand": "1960s–70s",
+    "slug": "ford_mustang_1965"
+  },
+  {
+    "brand": "Ford",
+    "model": "Mustang GT",
+    "category": "sports-car",
+    "era": "current",
+    "year": "2015",
+    "referenceFamily": "Mustang",
+    "traits": [
+      "muscle",
+      "shark nose"
+    ],
+    "description": "Original procedural study of the Mustang GT.",
+    "bodyStyle": "Coupe",
+    "drivetrain": "RWD",
+    "eraBand": "2015+",
+    "slug": "ford_mustang_gt"
+  },
+  {
+    "brand": "Ford",
+    "model": "GT",
+    "category": "supercar",
+    "era": "current",
+    "year": "2004",
+    "referenceFamily": "GT",
+    "traits": [
+      "Le Mans homage",
+      "low"
+    ],
+    "description": "Original procedural study of the GT.",
+    "bodyStyle": "GT Coupe",
+    "drivetrain": "RWD",
+    "eraBand": "2000s–10s",
+    "slug": "ford_gt"
+  },
+  {
+    "brand": "Ford",
+    "model": "Shelby GT500",
+    "category": "sports-car",
+    "era": "current",
+    "year": "2020",
+    "referenceFamily": "Shelby",
+    "traits": [
+      "muscle",
+      "hood scoop"
+    ],
+    "description": "Original procedural study of the Shelby GT500.",
+    "bodyStyle": "Coupe",
+    "drivetrain": "RWD",
+    "eraBand": "2015+",
+    "slug": "ford_shelby_gt500"
+  },
+  {
+    "brand": "Ford",
+    "model": "Bronco",
+    "category": "offroad",
+    "era": "current",
+    "year": "2021",
+    "referenceFamily": "Bronco",
+    "traits": [
+      "boxy 4x4",
+      "round lights"
+    ],
+    "description": "Original procedural study of the Bronco.",
+    "bodyStyle": "Off-road",
+    "drivetrain": "RWD",
+    "eraBand": "2015+",
+    "slug": "ford_bronco"
+  },
+  {
+    "brand": "Ford",
+    "model": "F-150 Raptor",
+    "category": "offroad",
+    "era": "current",
+    "year": "2010",
+    "referenceFamily": "Raptor",
+    "traits": [
+      "pickup",
+      "flared"
+    ],
+    "description": "Original procedural study of the F-150 Raptor.",
+    "bodyStyle": "Off-road",
+    "drivetrain": "RWD",
+    "eraBand": "2000s–10s",
+    "slug": "ford_f_150_raptor"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Corvette C1",
+    "category": "sports-car",
+    "era": "classic",
+    "year": "1953",
+    "referenceFamily": "C1",
+    "traits": [
+      "chrome nose",
+      "round"
+    ],
+    "description": "Original procedural study of the Corvette C1.",
+    "bodyStyle": "Coupe",
+    "drivetrain": "RWD",
+    "eraBand": "1960s–70s",
+    "slug": "chevrolet_corvette_c1"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Corvette C2",
+    "category": "sports-car",
+    "era": "modern-classic",
+    "year": "1963",
+    "referenceFamily": "C2",
+    "traits": [
+      "split window",
+      "stingray"
+    ],
+    "description": "Original procedural study of the Corvette C2.",
+    "bodyStyle": "Coupe",
+    "drivetrain": "RWD",
+    "eraBand": "1960s–70s",
+    "slug": "chevrolet_corvette_c2"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Camaro Z28",
+    "category": "sports-car",
+    "era": "modern-classic",
+    "year": "1969",
+    "referenceFamily": "Camaro",
+    "traits": [
+      "muscle",
+      "wide"
+    ],
+    "description": "Original procedural study of the Camaro Z28.",
+    "bodyStyle": "Coupe",
+    "drivetrain": "RWD",
+    "eraBand": "1960s–70s",
+    "slug": "chevrolet_camaro_z28"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Corvette C7",
+    "category": "sports-car",
+    "era": "current",
+    "year": "2014",
+    "referenceFamily": "C7",
+    "traits": [
+      "sharp",
+      "round tail"
+    ],
+    "description": "Original procedural study of the Corvette C7.",
+    "bodyStyle": "Coupe",
+    "drivetrain": "RWD",
+    "eraBand": "2000s–10s",
+    "slug": "chevrolet_corvette_c7"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Corvette C8",
+    "category": "supercar",
+    "era": "current",
+    "year": "2020",
+    "referenceFamily": "C8",
+    "traits": [
+      "mid-engine",
+      "wedge"
+    ],
+    "description": "Original procedural study of the Corvette C8.",
+    "bodyStyle": "Supercar",
+    "drivetrain": "RWD",
+    "eraBand": "2015+",
+    "slug": "chevrolet_corvette_c8"
+  },
+  {
+    "brand": "Nissan",
+    "model": "240Z",
+    "category": "sports-car",
+    "era": "classic",
+    "year": "1970",
+    "referenceFamily": "Z",
+    "traits": [
+      "long nose",
+      "round"
+    ],
+    "description": "Original procedural study of the 240Z.",
+    "bodyStyle": "Coupe",
+    "drivetrain": "RWD",
+    "eraBand": "1960s–70s",
+    "slug": "nissan_240z"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Skyline GT-R",
+    "category": "sports-sedan",
+    "era": "modern-classic",
+    "year": "1999",
+    "referenceFamily": "R34",
+    "traits": [
+      "boxy",
+      "wing",
+      "round lights"
+    ],
+    "description": "Original procedural study of the Skyline GT-R.",
+    "bodyStyle": "Sports Sedan",
+    "drivetrain": "RWD",
+    "eraBand": "1980s–90s",
+    "slug": "nissan_skyline_gt_r"
+  },
+  {
+    "brand": "Nissan",
+    "model": "GT-R",
+    "category": "supercar",
+    "era": "current",
+    "year": "2007",
+    "referenceFamily": "R35",
+    "traits": [
+      "wide",
+      "aggressive",
+      "wing"
+    ],
+    "description": "Original procedural study of the GT-R.",
+    "bodyStyle": "Supercar",
+    "drivetrain": "RWD",
+    "eraBand": "2000s–10s",
+    "slug": "nissan_gt_r"
+  },
+  {
+    "brand": "Nissan",
+    "model": "370Z",
+    "category": "sports-car",
+    "era": "current",
+    "year": "2009",
+    "referenceFamily": "370Z",
+    "traits": [
+      "coupe",
+      "short"
+    ],
+    "description": "Original procedural study of the 370Z.",
+    "bodyStyle": "Coupe",
+    "drivetrain": "RWD",
+    "eraBand": "2000s–10s",
+    "slug": "nissan_370z"
+  },
+  {
+    "brand": "Toyota",
+    "model": "2000GT",
+    "category": "sports-car",
+    "era": "classic",
+    "year": "1967",
+    "referenceFamily": "2000GT",
+    "traits": [
+      "elegant",
+      "long hood"
+    ],
+    "description": "Original procedural study of the 2000GT.",
+    "bodyStyle": "GT Coupe",
+    "drivetrain": "RWD",
+    "eraBand": "1960s–70s",
+    "slug": "toyota_2000gt"
+  },
+  {
+    "brand": "Toyota",
+    "model": "AE86",
+    "category": "sports-car",
+    "era": "modern-classic",
+    "year": "1983",
+    "referenceFamily": "AE86",
+    "traits": [
+      "hatchback coupe",
+      "boxy"
+    ],
+    "description": "Original procedural study of the AE86.",
+    "bodyStyle": "Coupe",
+    "drivetrain": "RWD",
+    "eraBand": "1980s–90s",
+    "slug": "toyota_ae86"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Supra A80",
+    "category": "sports-car",
+    "era": "modern-classic",
+    "year": "1993",
+    "referenceFamily": "A80",
+    "traits": [
+      "twin-turbo",
+      "round fenders"
+    ],
+    "description": "Original procedural study of the Supra A80.",
+    "bodyStyle": "Coupe",
+    "drivetrain": "RWD",
+    "eraBand": "1980s–90s",
+    "slug": "toyota_supra_a80"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Supra A90",
+    "category": "sports-car",
+    "era": "current",
+    "year": "2019",
+    "referenceFamily": "A90",
+    "traits": [
+      "wide",
+      "modern"
+    ],
+    "description": "Original procedural study of the Supra A90.",
+    "bodyStyle": "Coupe",
+    "drivetrain": "RWD",
+    "eraBand": "2015+",
+    "slug": "toyota_supra_a90"
+  },
+  {
+    "brand": "Toyota",
+    "model": "GR Yaris",
+    "category": "sports-car",
+    "era": "current",
+    "year": "2020",
+    "referenceFamily": "GRY",
+    "traits": [
+      "hatch",
+      "wide arches"
+    ],
+    "description": "Original procedural study of the GR Yaris.",
+    "bodyStyle": "Coupe",
+    "drivetrain": "RWD",
+    "eraBand": "2015+",
+    "slug": "toyota_gr_yaris"
+  },
+  {
+    "brand": "Jaguar",
+    "model": "E-Type",
+    "category": "sports-car",
+    "era": "classic",
+    "year": "1961",
+    "referenceFamily": "EType",
+    "traits": [
+      "long hood",
+      "elegant"
+    ],
+    "description": "Original procedural study of the E-Type.",
+    "bodyStyle": "Coupe",
+    "drivetrain": "RWD",
+    "eraBand": "1960s–70s",
+    "slug": "jaguar_e_type"
+  },
+  {
+    "brand": "Jaguar",
+    "model": "XJ220",
+    "category": "supercar",
+    "era": "modern-classic",
+    "year": "1992",
+    "referenceFamily": "XJ220",
+    "traits": [
+      "wedge",
+      "wide"
+    ],
+    "description": "Original procedural study of the XJ220.",
+    "bodyStyle": "Supercar",
+    "drivetrain": "RWD",
+    "eraBand": "1980s–90s",
+    "slug": "jaguar_xj220"
+  },
+  {
+    "brand": "Jaguar",
+    "model": "F-Type",
+    "category": "sports-car",
+    "era": "current",
+    "year": "2013",
+    "referenceFamily": "FType",
+    "traits": [
+      "long hood",
+      "round"
+    ],
+    "description": "Original procedural study of the F-Type.",
+    "bodyStyle": "Coupe",
+    "drivetrain": "RWD",
+    "eraBand": "2000s–10s",
+    "slug": "jaguar_f_type"
+  },
+  {
+    "brand": "Aston Martin",
+    "model": "DB5",
+    "category": "sports-car",
+    "era": "classic",
+    "year": "1963",
+    "referenceFamily": "DB5",
+    "traits": [
+      "elegant GT",
+      "long hood"
+    ],
+    "description": "Original procedural study of the DB5.",
+    "bodyStyle": "Coupe",
+    "drivetrain": "RWD",
+    "eraBand": "1960s–70s",
+    "slug": "aston_martin_db5"
+  },
+  {
+    "brand": "Aston Martin",
+    "model": "V8 Vantage",
+    "category": "sports-car",
+    "era": "current",
+    "year": "2005",
+    "referenceFamily": "Vantage",
+    "traits": [
+      "compact",
+      "wide"
+    ],
+    "description": "Original procedural study of the V8 Vantage.",
+    "bodyStyle": "Coupe",
+    "drivetrain": "RWD",
+    "eraBand": "2000s–10s",
+    "slug": "aston_martin_v8_vantage"
+  },
+  {
+    "brand": "Aston Martin",
+    "model": "DBS",
+    "category": "sports-car",
+    "era": "current",
+    "year": "2007",
+    "referenceFamily": "DBS",
+    "traits": [
+      "grand tourer",
+      "long"
+    ],
+    "description": "Original procedural study of the DBS.",
+    "bodyStyle": "Coupe",
+    "drivetrain": "RWD",
+    "eraBand": "2000s–10s",
+    "slug": "aston_martin_dbs"
+  },
+  {
+    "brand": "Aston Martin",
+    "model": "DB11",
+    "category": "sports-car",
+    "era": "current",
+    "year": "2016",
+    "referenceFamily": "DB11",
+    "traits": [
+      "modern GT",
+      "sharp"
+    ],
+    "description": "Original procedural study of the DB11.",
+    "bodyStyle": "Coupe",
+    "drivetrain": "RWD",
+    "eraBand": "2015+",
+    "slug": "aston_martin_db11"
+  },
+  {
+    "brand": "Aston Martin",
+    "model": "Valkyrie",
+    "category": "hypercar",
+    "era": "current",
+    "year": "2018",
+    "referenceFamily": "Valkyrie",
+    "traits": [
+      "canopy",
+      "extreme aero"
+    ],
+    "description": "Original procedural study of the Valkyrie.",
+    "bodyStyle": "Hypercar",
+    "drivetrain": "RWD",
+    "eraBand": "2015+",
+    "slug": "aston_martin_valkyrie"
+  },
+  {
+    "brand": "Dodge",
+    "model": "Viper",
+    "category": "sports-car",
+    "era": "current",
+    "year": "1992",
+    "referenceFamily": "Viper",
+    "traits": [
+      "long hood",
+      "roadster",
+      "side pipes"
+    ],
+    "description": "Original procedural study of the Viper.",
+    "bodyStyle": "Roadster",
+    "drivetrain": "RWD",
+    "eraBand": "1980s–90s",
+    "slug": "dodge_viper"
+  },
+  {
+    "brand": "Dodge",
+    "model": "Challenger",
+    "category": "sports-car",
+    "era": "current",
+    "year": "2008",
+    "referenceFamily": "Challenger",
+    "traits": [
+      "muscle",
+      "wide"
+    ],
+    "description": "Original procedural study of the Challenger.",
+    "bodyStyle": "Coupe",
+    "drivetrain": "RWD",
+    "eraBand": "2000s–10s",
+    "slug": "dodge_challenger"
+  },
+  {
+    "brand": "Dodge",
+    "model": "Charger",
+    "category": "sports-sedan",
+    "era": "current",
+    "year": "2006",
+    "referenceFamily": "Charger",
+    "traits": [
+      "muscle sedan",
+      "wide"
+    ],
+    "description": "Original procedural study of the Charger.",
+    "bodyStyle": "Sports Sedan",
+    "drivetrain": "RWD",
+    "eraBand": "2000s–10s",
+    "slug": "dodge_charger"
+  },
+  {
+    "brand": "Koenigsegg",
+    "model": "CCX",
+    "category": "supercar",
+    "era": "current",
+    "year": "2006",
+    "referenceFamily": "CCX",
+    "traits": [
+      "clean wedge",
+      "small wing"
+    ],
+    "description": "Original procedural study of the CCX.",
+    "bodyStyle": "Supercar",
+    "drivetrain": "RWD",
+    "eraBand": "2000s–10s",
+    "slug": "koenigsegg_ccx"
+  },
+  {
+    "brand": "Koenigsegg",
+    "model": "Agera",
+    "category": "hypercar",
+    "era": "current",
+    "year": "2010",
+    "referenceFamily": "Agera",
+    "traits": [
+      "smooth",
+      "big wing"
+    ],
+    "description": "Original procedural study of the Agera.",
+    "bodyStyle": "Hypercar",
+    "drivetrain": "RWD",
+    "eraBand": "2000s–10s",
+    "slug": "koenigsegg_agera"
+  },
+  {
+    "brand": "Koenigsegg",
+    "model": "Regera",
+    "category": "hypercar",
+    "era": "current",
+    "year": "2015",
+    "referenceFamily": "Regera",
+    "traits": [
+      "plug-in hybrid",
+      "smooth"
+    ],
+    "description": "Original procedural study of the Regera.",
+    "bodyStyle": "Hypercar",
+    "drivetrain": "Electric/Hybrid",
+    "eraBand": "2015+",
+    "slug": "koenigsegg_regera"
+  },
+  {
+    "brand": "Koenigsegg",
+    "model": "Jesko",
+    "category": "hypercar",
+    "era": "current",
+    "year": "2019",
+    "referenceFamily": "Jesko",
+    "traits": [
+      "extreme aero",
+      "wing"
+    ],
+    "description": "Original procedural study of the Jesko.",
+    "bodyStyle": "Hypercar",
+    "drivetrain": "RWD",
+    "eraBand": "2015+",
+    "slug": "koenigsegg_jesko"
+  },
+  {
+    "brand": "Bugatti",
+    "model": "Veyron",
+    "category": "hypercar",
+    "era": "current",
+    "year": "2005",
+    "referenceFamily": "Veyron",
+    "traits": [
+      "wide",
+      "rounded",
+      "horsecollar"
+    ],
+    "description": "Original procedural study of the Veyron.",
+    "bodyStyle": "Hypercar",
+    "drivetrain": "RWD",
+    "eraBand": "2000s–10s",
+    "slug": "bugatti_veyron"
+  },
+  {
+    "brand": "Bugatti",
+    "model": "Chiron",
+    "category": "hypercar",
+    "era": "current",
+    "year": "2016",
+    "referenceFamily": "Chiron",
+    "traits": [
+      "wide",
+      "c-grid"
+    ],
+    "description": "Original procedural study of the Chiron.",
+    "bodyStyle": "Hypercar",
+    "drivetrain": "RWD",
+    "eraBand": "2015+",
+    "slug": "bugatti_chiron"
+  },
+  {
+    "brand": "Bugatti",
+    "model": "Divo",
+    "category": "hypercar",
+    "era": "current",
+    "year": "2018",
+    "referenceFamily": "Divo",
+    "traits": [
+      "track-focused",
+      "sharp"
+    ],
+    "description": "Original procedural study of the Divo.",
+    "bodyStyle": "Hypercar",
+    "drivetrain": "RWD",
+    "eraBand": "2015+",
+    "slug": "bugatti_divo"
+  },
+  {
+    "brand": "Rimac",
+    "model": "Concept One",
+    "category": "electric",
+    "era": "current",
+    "year": "2013",
+    "referenceFamily": "ConceptOne",
+    "traits": [
+      "EV wedge",
+      "sharp"
+    ],
+    "description": "Original procedural study of the Concept One.",
+    "bodyStyle": "Coupe",
+    "drivetrain": "Electric/Hybrid",
+    "eraBand": "2000s–10s",
+    "slug": "rimac_concept_one"
+  },
+  {
+    "brand": "Rimac",
+    "model": "Nevera",
+    "category": "hypercar",
+    "era": "current",
+    "year": "2021",
+    "referenceFamily": "Nevera",
+    "traits": [
+      "EV extreme",
+      "wide"
+    ],
+    "description": "Original procedural study of the Nevera.",
+    "bodyStyle": "Hypercar",
+    "drivetrain": "Electric/Hybrid",
+    "eraBand": "2015+",
+    "slug": "rimac_nevera"
+  },
+  {
+    "brand": "Pagani",
+    "model": "Zonda",
+    "category": "hypercar",
+    "era": "current",
+    "year": "1999",
+    "referenceFamily": "Zonda",
+    "traits": [
+      "canal fins",
+      "round",
+      "wing"
+    ],
+    "description": "Original procedural study of the Zonda.",
+    "bodyStyle": "Hypercar",
+    "drivetrain": "RWD",
+    "eraBand": "1980s–90s",
+    "slug": "pagani_zonda"
+  },
+  {
+    "brand": "Pagani",
+    "model": "Huayra",
+    "category": "hypercar",
+    "era": "current",
+    "year": "2011",
+    "referenceFamily": "Huayra",
+    "traits": [
+      "active aero",
+      "soft curves"
+    ],
+    "description": "Original procedural study of the Huayra.",
+    "bodyStyle": "Hypercar",
+    "drivetrain": "RWD",
+    "eraBand": "2000s–10s",
+    "slug": "pagani_huayra"
+  },
+  {
+    "brand": "Lexus",
+    "model": "LFA",
+    "category": "supercar",
+    "era": "current",
+    "year": "2010",
+    "referenceFamily": "LFA",
+    "traits": [
+      "narrow",
+      "tall intake"
+    ],
+    "description": "Original procedural study of the LFA.",
+    "bodyStyle": "Supercar",
+    "drivetrain": "RWD",
+    "eraBand": "2000s–10s",
+    "slug": "lexus_lfa"
+  },
+  {
+    "brand": "Lexus",
+    "model": "LC 500",
+    "category": "sports-car",
+    "era": "current",
+    "year": "2017",
+    "referenceFamily": "LC",
+    "traits": [
+      "spindle grille",
+      "elegant"
+    ],
+    "description": "Original procedural study of the LC 500.",
+    "bodyStyle": "Coupe",
+    "drivetrain": "RWD",
+    "eraBand": "2015+",
+    "slug": "lexus_lc_500"
+  },
+  {
+    "brand": "Alfa Romeo",
+    "model": "Spider",
+    "category": "sports-car",
+    "era": "classic",
+    "year": "1966",
+    "referenceFamily": "Spider",
+    "traits": [
+      "round",
+      "open"
+    ],
+    "description": "Original procedural study of the Spider.",
+    "bodyStyle": "Roadster",
+    "drivetrain": "RWD",
+    "eraBand": "1960s–70s",
+    "slug": "alfa_romeo_spider"
+  },
+  {
+    "brand": "Alfa Romeo",
+    "model": "4C",
+    "category": "sports-car",
+    "era": "current",
+    "year": "2013",
+    "referenceFamily": "4C",
+    "traits": [
+      "compact",
+      "mid-engine"
+    ],
+    "description": "Original procedural study of the 4C.",
+    "bodyStyle": "Coupe",
+    "drivetrain": "RWD",
+    "eraBand": "2000s–10s",
+    "slug": "alfa_romeo_4c"
+  },
+  {
+    "brand": "Alfa Romeo",
+    "model": "Giulia",
+    "category": "sports-sedan",
+    "era": "current",
+    "year": "2015",
+    "referenceFamily": "Giulia",
+    "traits": [
+      "saloon",
+      "sharp"
+    ],
+    "description": "Original procedural study of the Giulia.",
+    "bodyStyle": "Sports Sedan",
+    "drivetrain": "RWD",
+    "eraBand": "2015+",
+    "slug": "alfa_romeo_giulia"
+  },
+  {
+    "brand": "Maserati",
+    "model": "MC12",
+    "category": "supercar",
+    "era": "current",
+    "year": "2004",
+    "referenceFamily": "MC12",
+    "traits": [
+      "race GT",
+      "long"
+    ],
+    "description": "Original procedural study of the MC12.",
+    "bodyStyle": "Supercar",
+    "drivetrain": "RWD",
+    "eraBand": "2000s–10s",
+    "slug": "maserati_mc12"
+  },
+  {
+    "brand": "Maserati",
+    "model": "GranTurismo",
+    "category": "sports-car",
+    "era": "current",
+    "year": "2007",
+    "referenceFamily": "GT",
+    "traits": [
+      "elegant coupe",
+      "long"
+    ],
+    "description": "Original procedural study of the GranTurismo.",
+    "bodyStyle": "GT Coupe",
+    "drivetrain": "RWD",
+    "eraBand": "2000s–10s",
+    "slug": "maserati_granturismo"
+  },
+  {
+    "brand": "Maserati",
+    "model": "Ghibli",
+    "category": "sports-sedan",
+    "era": "current",
+    "year": "2013",
+    "referenceFamily": "Ghibli",
+    "traits": [
+      "saloon",
+      "sharp"
+    ],
+    "description": "Original procedural study of the Ghibli.",
+    "bodyStyle": "Sports Sedan",
+    "drivetrain": "RWD",
+    "eraBand": "2000s–10s",
+    "slug": "maserati_ghibli"
+  }
+]
