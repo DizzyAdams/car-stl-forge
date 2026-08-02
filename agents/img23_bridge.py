@@ -56,6 +56,22 @@ BRAND_PROFILES = {
 }
 BASE_SPEC = REPO / 'porsche_911_carrera.spec.json'
 
+# Side-profile silhouettes (XY plane, X = length -1..1, Y = height 0..1) used to
+# extrude a real car body instead of a lathe (revolution) blob. These are original
+# stylized design-language outlines, not OEM CAD. `width` is the extrude depth
+# (vehicle track). body_shell carries the full coupe outline incl. cabin roof;
+# cabin is a glazed greenhouse block placed on top.
+CAR_BODY_SIDE_PROFILE = [
+    [-1.00, 0.06], [-0.92, 0.10], [-0.78, 0.13], [-0.55, 0.15], [-0.32, 0.18],
+    [-0.12, 0.30], [0.12, 0.40], [0.38, 0.42], [0.62, 0.39], [0.84, 0.30],
+    [0.96, 0.18], [1.00, 0.11], [0.96, 0.07], [0.55, 0.05], [0.10, 0.045],
+    [-0.40, 0.05], [-0.80, 0.06], [-1.00, 0.06],
+]
+CAR_CABIN_SIDE_PROFILE = [
+    [-0.30, 0.0], [-0.16, 0.14], [0.06, 0.17], [0.30, 0.14], [0.34, 0.0],
+    [-0.30, 0.0],
+]
+
 # Geometry profiles are deliberately coarse, deterministic design-language
 # modifiers. They prevent every catalog entry from being a lightly randomized
 # 911 while keeping the output original and reference-informed.
@@ -133,13 +149,29 @@ def build_spec(brand: str, model: str, category: str, body_style: str = "Coupe")
         # Ground clearance lifts the whole car (SUVs / off-roaders sit higher).
         translate[1] += bsp.get('ground', 0.0)
         if node.get('id') == 'body_shell':
+            # Extrude a real car side-profile (length along X, height along Y,
+            # width along Z via extrude depth) instead of a lathe revolution blob.
+            node['primitive'] = 'extrude'
+            node['geometryDescriptor'] = {
+                'profile2D': {
+                    'points': CAR_BODY_SIDE_PROFILE,
+                    'depth': 1.1 * blended['body'][2] * bsp['track'],
+                }
+            }
             scale[0] *= blended['body'][0] * bsp['length'] * (0.99 + unit(1) * 0.02)
             scale[1] *= blended['body'][1] * bsp['height']
-            scale[2] *= blended['body'][2] * bsp['length'] * (0.99 + unit(2) * 0.02)
+            scale[2] = 1.0
         elif node.get('id') == 'cabin':
+            node['primitive'] = 'extrude'
+            node['geometryDescriptor'] = {
+                'profile2D': {
+                    'points': CAR_CABIN_SIDE_PROFILE,
+                    'depth': 0.9 * blended['cabin'][2] * bsp['track'],
+                }
+            }
             scale[0] *= blended['cabin'][0] * (0.99 + unit(3) * 0.02)
             scale[1] *= blended['cabin'][1] * bsp['cabin']
-            scale[2] *= blended['cabin'][2]
+            scale[2] = 1.0
             translate[2] = blended.get('cabin_z', 0.0) + (unit(5) - .5) * .04
             if profile.get('open_top'):
                 scale[1] *= 0.82
