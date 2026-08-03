@@ -1,0 +1,1905 @@
+[
+  {
+    "brand": "Kenney (CC0)",
+    "model": "ambulance",
+    "category": "real-cc0",
+    "era": "community",
+    "year": "",
+    "referenceFamily": "CC0 Kenney car-kit",
+    "traits": [
+      "real 3D asset",
+      "GLB->STL convertido",
+      "não-watertight (visual)"
+    ],
+    "description": "Modelo 3D real da comunidade (Kenney car-kit, CC0/CC-BY): ambulance. Convertido de GLB para STL.",
+    "bodyStyle": "Real",
+    "drivetrain": "N/A",
+    "eraBand": "Community",
+    "slug": "real_ambulance",
+    "stl": "/models/real/kenney_ambulance.stl",
+    "print_solid_candidate": "/models/real/kenney_ambulance.stl",
+    "raw_study": "/models/real/kenney_ambulance.glb",
+    "faces": 4166,
+    "watertight": false,
+    "colors": [
+      [
+        "#e23b3b",
+        "Vermelho"
+      ],
+      [
+        "#1f6feb",
+        "Azul"
+      ],
+      [
+        "#f5f5f5",
+        "Branco"
+      ],
+      [
+        "#111114",
+        "Preto"
+      ],
+      [
+        "#16a34a",
+        "Verde"
+      ],
+      [
+        "#ff8a00",
+        "Laranja"
+      ],
+      [
+        "#c0c0c8",
+        "Prata"
+      ],
+      [
+        "#9fffe0",
+        "Mint"
+      ]
+    ],
+    "surrealFactor": 0,
+    "provenance": "real-cc0"
+  },
+  {
+    "brand": "Kenney (CC0)",
+    "model": "delivery-flat",
+    "category": "real-cc0",
+    "era": "community",
+    "year": "",
+    "referenceFamily": "CC0 Kenney car-kit",
+    "traits": [
+      "real 3D asset",
+      "GLB->STL convertido",
+      "não-watertight (visual)"
+    ],
+    "description": "Modelo 3D real da comunidade (Kenney car-kit, CC0/CC-BY): delivery-flat. Convertido de GLB para STL.",
+    "bodyStyle": "Real",
+    "drivetrain": "N/A",
+    "eraBand": "Community",
+    "slug": "real_delivery-flat",
+    "stl": "/models/real/kenney_delivery-flat.stl",
+    "print_solid_candidate": "/models/real/kenney_delivery-flat.stl",
+    "raw_study": "/models/real/kenney_delivery-flat.glb",
+    "faces": 3892,
+    "watertight": false,
+    "colors": [
+      [
+        "#e23b3b",
+        "Vermelho"
+      ],
+      [
+        "#1f6feb",
+        "Azul"
+      ],
+      [
+        "#f5f5f5",
+        "Branco"
+      ],
+      [
+        "#111114",
+        "Preto"
+      ],
+      [
+        "#16a34a",
+        "Verde"
+      ],
+      [
+        "#ff8a00",
+        "Laranja"
+      ],
+      [
+        "#c0c0c8",
+        "Prata"
+      ],
+      [
+        "#9fffe0",
+        "Mint"
+      ]
+    ],
+    "surrealFactor": 0,
+    "provenance": "real-cc0"
+  },
+  {
+    "brand": "Kenney (CC0)",
+    "model": "delivery",
+    "category": "real-cc0",
+    "era": "community",
+    "year": "",
+    "referenceFamily": "CC0 Kenney car-kit",
+    "traits": [
+      "real 3D asset",
+      "GLB->STL convertido",
+      "não-watertight (visual)"
+    ],
+    "description": "Modelo 3D real da comunidade (Kenney car-kit, CC0/CC-BY): delivery. Convertido de GLB para STL.",
+    "bodyStyle": "Real",
+    "drivetrain": "N/A",
+    "eraBand": "Community",
+    "slug": "real_delivery",
+    "stl": "/models/real/kenney_delivery.stl",
+    "print_solid_candidate": "/models/real/kenney_delivery.stl",
+    "raw_study": "/models/real/kenney_delivery.glb",
+    "faces": 3726,
+    "watertight": false,
+    "colors": [
+      [
+        "#e23b3b",
+        "Vermelho"
+      ],
+      [
+        "#1f6feb",
+        "Azul"
+      ],
+      [
+        "#f5f5f5",
+        "Branco"
+      ],
+      [
+        "#111114",
+        "Preto"
+      ],
+      [
+        "#16a34a",
+        "Verde"
+      ],
+      [
+        "#ff8a00",
+        "Laranja"
+      ],
+      [
+        "#c0c0c8",
+        "Prata"
+      ],
+      [
+        "#9fffe0",
+        "Mint"
+      ]
+    ],
+    "surrealFactor": 0,
+    "provenance": "real-cc0"
+  },
+  {
+    "brand": "Kenney (CC0)",
+    "model": "firetruck",
+    "category": "real-cc0",
+    "era": "community",
+    "year": "",
+    "referenceFamily": "CC0 Kenney car-kit",
+    "traits": [
+      "real 3D asset",
+      "GLB->STL convertido",
+      "não-watertight (visual)"
+    ],
+    "description": "Modelo 3D real da comunidade (Kenney car-kit, CC0/CC-BY): firetruck. Convertido de GLB para STL.",
+    "bodyStyle": "Real",
+    "drivetrain": "N/A",
+    "eraBand": "Community",
+    "slug": "real_firetruck",
+    "stl": "/models/real/kenney_firetruck.stl",
+    "print_solid_candidate": "/models/real/kenney_firetruck.stl",
+    "raw_study": "/models/real/kenney_firetruck.glb",
+    "faces": 4287,
+    "watertight": false,
+    "colors": [
+      [
+        "#e23b3b",
+        "Vermelho"
+      ],
+      [
+        "#1f6feb",
+        "Azul"
+      ],
+      [
+        "#f5f5f5",
+        "Branco"
+      ],
+      [
+        "#111114",
+        "Preto"
+      ],
+      [
+        "#16a34a",
+        "Verde"
+      ],
+      [
+        "#ff8a00",
+        "Laranja"
+      ],
+      [
+        "#c0c0c8",
+        "Prata"
+      ],
+      [
+        "#9fffe0",
+        "Mint"
+      ]
+    ],
+    "surrealFactor": 0,
+    "provenance": "real-cc0"
+  },
+  {
+    "brand": "Kenney (CC0)",
+    "model": "garbage-truck",
+    "category": "real-cc0",
+    "era": "community",
+    "year": "",
+    "referenceFamily": "CC0 Kenney car-kit",
+    "traits": [
+      "real 3D asset",
+      "GLB->STL convertido",
+      "não-watertight (visual)"
+    ],
+    "description": "Modelo 3D real da comunidade (Kenney car-kit, CC0/CC-BY): garbage-truck. Convertido de GLB para STL.",
+    "bodyStyle": "Real",
+    "drivetrain": "N/A",
+    "eraBand": "Community",
+    "slug": "real_garbage-truck",
+    "stl": "/models/real/kenney_garbage-truck.stl",
+    "print_solid_candidate": "/models/real/kenney_garbage-truck.stl",
+    "raw_study": "/models/real/kenney_garbage-truck.glb",
+    "faces": 4718,
+    "watertight": false,
+    "colors": [
+      [
+        "#e23b3b",
+        "Vermelho"
+      ],
+      [
+        "#1f6feb",
+        "Azul"
+      ],
+      [
+        "#f5f5f5",
+        "Branco"
+      ],
+      [
+        "#111114",
+        "Preto"
+      ],
+      [
+        "#16a34a",
+        "Verde"
+      ],
+      [
+        "#ff8a00",
+        "Laranja"
+      ],
+      [
+        "#c0c0c8",
+        "Prata"
+      ],
+      [
+        "#9fffe0",
+        "Mint"
+      ]
+    ],
+    "surrealFactor": 0,
+    "provenance": "real-cc0"
+  },
+  {
+    "brand": "Kenney (CC0)",
+    "model": "hatchback-sports",
+    "category": "real-cc0",
+    "era": "community",
+    "year": "",
+    "referenceFamily": "CC0 Kenney car-kit",
+    "traits": [
+      "real 3D asset",
+      "GLB->STL convertido",
+      "não-watertight (visual)"
+    ],
+    "description": "Modelo 3D real da comunidade (Kenney car-kit, CC0/CC-BY): hatchback-sports. Convertido de GLB para STL.",
+    "bodyStyle": "Real",
+    "drivetrain": "N/A",
+    "eraBand": "Community",
+    "slug": "real_hatchback-sports",
+    "stl": "/models/real/kenney_hatchback-sports.stl",
+    "print_solid_candidate": "/models/real/kenney_hatchback-sports.stl",
+    "raw_study": "/models/real/kenney_hatchback-sports.glb",
+    "faces": 3182,
+    "watertight": false,
+    "colors": [
+      [
+        "#e23b3b",
+        "Vermelho"
+      ],
+      [
+        "#1f6feb",
+        "Azul"
+      ],
+      [
+        "#f5f5f5",
+        "Branco"
+      ],
+      [
+        "#111114",
+        "Preto"
+      ],
+      [
+        "#16a34a",
+        "Verde"
+      ],
+      [
+        "#ff8a00",
+        "Laranja"
+      ],
+      [
+        "#c0c0c8",
+        "Prata"
+      ],
+      [
+        "#9fffe0",
+        "Mint"
+      ]
+    ],
+    "surrealFactor": 0,
+    "provenance": "real-cc0"
+  },
+  {
+    "brand": "Kenney (CC0)",
+    "model": "kart-oobi",
+    "category": "real-cc0",
+    "era": "community",
+    "year": "",
+    "referenceFamily": "CC0 Kenney car-kit",
+    "traits": [
+      "real 3D asset",
+      "GLB->STL convertido",
+      "não-watertight (visual)"
+    ],
+    "description": "Modelo 3D real da comunidade (Kenney car-kit, CC0/CC-BY): kart-oobi. Convertido de GLB para STL.",
+    "bodyStyle": "Real",
+    "drivetrain": "N/A",
+    "eraBand": "Community",
+    "slug": "real_kart-oobi",
+    "stl": "/models/real/kenney_kart-oobi.stl",
+    "print_solid_candidate": "/models/real/kenney_kart-oobi.stl",
+    "raw_study": "/models/real/kenney_kart-oobi.glb",
+    "faces": 4674,
+    "watertight": false,
+    "colors": [
+      [
+        "#e23b3b",
+        "Vermelho"
+      ],
+      [
+        "#1f6feb",
+        "Azul"
+      ],
+      [
+        "#f5f5f5",
+        "Branco"
+      ],
+      [
+        "#111114",
+        "Preto"
+      ],
+      [
+        "#16a34a",
+        "Verde"
+      ],
+      [
+        "#ff8a00",
+        "Laranja"
+      ],
+      [
+        "#c0c0c8",
+        "Prata"
+      ],
+      [
+        "#9fffe0",
+        "Mint"
+      ]
+    ],
+    "surrealFactor": 0,
+    "provenance": "real-cc0"
+  },
+  {
+    "brand": "Kenney (CC0)",
+    "model": "kart-oodi",
+    "category": "real-cc0",
+    "era": "community",
+    "year": "",
+    "referenceFamily": "CC0 Kenney car-kit",
+    "traits": [
+      "real 3D asset",
+      "GLB->STL convertido",
+      "não-watertight (visual)"
+    ],
+    "description": "Modelo 3D real da comunidade (Kenney car-kit, CC0/CC-BY): kart-oodi. Convertido de GLB para STL.",
+    "bodyStyle": "Real",
+    "drivetrain": "N/A",
+    "eraBand": "Community",
+    "slug": "real_kart-oodi",
+    "stl": "/models/real/kenney_kart-oodi.stl",
+    "print_solid_candidate": "/models/real/kenney_kart-oodi.stl",
+    "raw_study": "/models/real/kenney_kart-oodi.glb",
+    "faces": 4308,
+    "watertight": false,
+    "colors": [
+      [
+        "#e23b3b",
+        "Vermelho"
+      ],
+      [
+        "#1f6feb",
+        "Azul"
+      ],
+      [
+        "#f5f5f5",
+        "Branco"
+      ],
+      [
+        "#111114",
+        "Preto"
+      ],
+      [
+        "#16a34a",
+        "Verde"
+      ],
+      [
+        "#ff8a00",
+        "Laranja"
+      ],
+      [
+        "#c0c0c8",
+        "Prata"
+      ],
+      [
+        "#9fffe0",
+        "Mint"
+      ]
+    ],
+    "surrealFactor": 0,
+    "provenance": "real-cc0"
+  },
+  {
+    "brand": "Kenney (CC0)",
+    "model": "kart-ooli",
+    "category": "real-cc0",
+    "era": "community",
+    "year": "",
+    "referenceFamily": "CC0 Kenney car-kit",
+    "traits": [
+      "real 3D asset",
+      "GLB->STL convertido",
+      "não-watertight (visual)"
+    ],
+    "description": "Modelo 3D real da comunidade (Kenney car-kit, CC0/CC-BY): kart-ooli. Convertido de GLB para STL.",
+    "bodyStyle": "Real",
+    "drivetrain": "N/A",
+    "eraBand": "Community",
+    "slug": "real_kart-ooli",
+    "stl": "/models/real/kenney_kart-ooli.stl",
+    "print_solid_candidate": "/models/real/kenney_kart-ooli.stl",
+    "raw_study": "/models/real/kenney_kart-ooli.glb",
+    "faces": 4304,
+    "watertight": false,
+    "colors": [
+      [
+        "#e23b3b",
+        "Vermelho"
+      ],
+      [
+        "#1f6feb",
+        "Azul"
+      ],
+      [
+        "#f5f5f5",
+        "Branco"
+      ],
+      [
+        "#111114",
+        "Preto"
+      ],
+      [
+        "#16a34a",
+        "Verde"
+      ],
+      [
+        "#ff8a00",
+        "Laranja"
+      ],
+      [
+        "#c0c0c8",
+        "Prata"
+      ],
+      [
+        "#9fffe0",
+        "Mint"
+      ]
+    ],
+    "surrealFactor": 0,
+    "provenance": "real-cc0"
+  },
+  {
+    "brand": "Kenney (CC0)",
+    "model": "kart-oopi",
+    "category": "real-cc0",
+    "era": "community",
+    "year": "",
+    "referenceFamily": "CC0 Kenney car-kit",
+    "traits": [
+      "real 3D asset",
+      "GLB->STL convertido",
+      "não-watertight (visual)"
+    ],
+    "description": "Modelo 3D real da comunidade (Kenney car-kit, CC0/CC-BY): kart-oopi. Convertido de GLB para STL.",
+    "bodyStyle": "Real",
+    "drivetrain": "N/A",
+    "eraBand": "Community",
+    "slug": "real_kart-oopi",
+    "stl": "/models/real/kenney_kart-oopi.stl",
+    "print_solid_candidate": "/models/real/kenney_kart-oopi.stl",
+    "raw_study": "/models/real/kenney_kart-oopi.glb",
+    "faces": 4380,
+    "watertight": false,
+    "colors": [
+      [
+        "#e23b3b",
+        "Vermelho"
+      ],
+      [
+        "#1f6feb",
+        "Azul"
+      ],
+      [
+        "#f5f5f5",
+        "Branco"
+      ],
+      [
+        "#111114",
+        "Preto"
+      ],
+      [
+        "#16a34a",
+        "Verde"
+      ],
+      [
+        "#ff8a00",
+        "Laranja"
+      ],
+      [
+        "#c0c0c8",
+        "Prata"
+      ],
+      [
+        "#9fffe0",
+        "Mint"
+      ]
+    ],
+    "surrealFactor": 0,
+    "provenance": "real-cc0"
+  },
+  {
+    "brand": "Kenney (CC0)",
+    "model": "kart-oozi",
+    "category": "real-cc0",
+    "era": "community",
+    "year": "",
+    "referenceFamily": "CC0 Kenney car-kit",
+    "traits": [
+      "real 3D asset",
+      "GLB->STL convertido",
+      "não-watertight (visual)"
+    ],
+    "description": "Modelo 3D real da comunidade (Kenney car-kit, CC0/CC-BY): kart-oozi. Convertido de GLB para STL.",
+    "bodyStyle": "Real",
+    "drivetrain": "N/A",
+    "eraBand": "Community",
+    "slug": "real_kart-oozi",
+    "stl": "/models/real/kenney_kart-oozi.stl",
+    "print_solid_candidate": "/models/real/kenney_kart-oozi.stl",
+    "raw_study": "/models/real/kenney_kart-oozi.glb",
+    "faces": 4380,
+    "watertight": false,
+    "colors": [
+      [
+        "#e23b3b",
+        "Vermelho"
+      ],
+      [
+        "#1f6feb",
+        "Azul"
+      ],
+      [
+        "#f5f5f5",
+        "Branco"
+      ],
+      [
+        "#111114",
+        "Preto"
+      ],
+      [
+        "#16a34a",
+        "Verde"
+      ],
+      [
+        "#ff8a00",
+        "Laranja"
+      ],
+      [
+        "#c0c0c8",
+        "Prata"
+      ],
+      [
+        "#9fffe0",
+        "Mint"
+      ]
+    ],
+    "surrealFactor": 0,
+    "provenance": "real-cc0"
+  },
+  {
+    "brand": "Kenney (CC0)",
+    "model": "police",
+    "category": "real-cc0",
+    "era": "community",
+    "year": "",
+    "referenceFamily": "CC0 Kenney car-kit",
+    "traits": [
+      "real 3D asset",
+      "GLB->STL convertido",
+      "não-watertight (visual)"
+    ],
+    "description": "Modelo 3D real da comunidade (Kenney car-kit, CC0/CC-BY): police. Convertido de GLB para STL.",
+    "bodyStyle": "Real",
+    "drivetrain": "N/A",
+    "eraBand": "Community",
+    "slug": "real_police",
+    "stl": "/models/real/kenney_police.stl",
+    "print_solid_candidate": "/models/real/kenney_police.stl",
+    "raw_study": "/models/real/kenney_police.glb",
+    "faces": 3496,
+    "watertight": false,
+    "colors": [
+      [
+        "#e23b3b",
+        "Vermelho"
+      ],
+      [
+        "#1f6feb",
+        "Azul"
+      ],
+      [
+        "#f5f5f5",
+        "Branco"
+      ],
+      [
+        "#111114",
+        "Preto"
+      ],
+      [
+        "#16a34a",
+        "Verde"
+      ],
+      [
+        "#ff8a00",
+        "Laranja"
+      ],
+      [
+        "#c0c0c8",
+        "Prata"
+      ],
+      [
+        "#9fffe0",
+        "Mint"
+      ]
+    ],
+    "surrealFactor": 0,
+    "provenance": "real-cc0"
+  },
+  {
+    "brand": "Kenney (CC0)",
+    "model": "race-future",
+    "category": "real-cc0",
+    "era": "community",
+    "year": "",
+    "referenceFamily": "CC0 Kenney car-kit",
+    "traits": [
+      "real 3D asset",
+      "GLB->STL convertido",
+      "não-watertight (visual)"
+    ],
+    "description": "Modelo 3D real da comunidade (Kenney car-kit, CC0/CC-BY): race-future. Convertido de GLB para STL.",
+    "bodyStyle": "Real",
+    "drivetrain": "N/A",
+    "eraBand": "Community",
+    "slug": "real_race-future",
+    "stl": "/models/real/kenney_race-future.stl",
+    "print_solid_candidate": "/models/real/kenney_race-future.stl",
+    "raw_study": "/models/real/kenney_race-future.glb",
+    "faces": 3106,
+    "watertight": false,
+    "colors": [
+      [
+        "#e23b3b",
+        "Vermelho"
+      ],
+      [
+        "#1f6feb",
+        "Azul"
+      ],
+      [
+        "#f5f5f5",
+        "Branco"
+      ],
+      [
+        "#111114",
+        "Preto"
+      ],
+      [
+        "#16a34a",
+        "Verde"
+      ],
+      [
+        "#ff8a00",
+        "Laranja"
+      ],
+      [
+        "#c0c0c8",
+        "Prata"
+      ],
+      [
+        "#9fffe0",
+        "Mint"
+      ]
+    ],
+    "surrealFactor": 0,
+    "provenance": "real-cc0"
+  },
+  {
+    "brand": "Kenney (CC0)",
+    "model": "race",
+    "category": "real-cc0",
+    "era": "community",
+    "year": "",
+    "referenceFamily": "CC0 Kenney car-kit",
+    "traits": [
+      "real 3D asset",
+      "GLB->STL convertido",
+      "não-watertight (visual)"
+    ],
+    "description": "Modelo 3D real da comunidade (Kenney car-kit, CC0/CC-BY): race. Convertido de GLB para STL.",
+    "bodyStyle": "Real",
+    "drivetrain": "N/A",
+    "eraBand": "Community",
+    "slug": "real_race",
+    "stl": "/models/real/kenney_race.stl",
+    "print_solid_candidate": "/models/real/kenney_race.stl",
+    "raw_study": "/models/real/kenney_race.glb",
+    "faces": 3026,
+    "watertight": false,
+    "colors": [
+      [
+        "#e23b3b",
+        "Vermelho"
+      ],
+      [
+        "#1f6feb",
+        "Azul"
+      ],
+      [
+        "#f5f5f5",
+        "Branco"
+      ],
+      [
+        "#111114",
+        "Preto"
+      ],
+      [
+        "#16a34a",
+        "Verde"
+      ],
+      [
+        "#ff8a00",
+        "Laranja"
+      ],
+      [
+        "#c0c0c8",
+        "Prata"
+      ],
+      [
+        "#9fffe0",
+        "Mint"
+      ]
+    ],
+    "surrealFactor": 0,
+    "provenance": "real-cc0"
+  },
+  {
+    "brand": "Kenney (CC0)",
+    "model": "sedan-sports",
+    "category": "real-cc0",
+    "era": "community",
+    "year": "",
+    "referenceFamily": "CC0 Kenney car-kit",
+    "traits": [
+      "real 3D asset",
+      "GLB->STL convertido",
+      "não-watertight (visual)"
+    ],
+    "description": "Modelo 3D real da comunidade (Kenney car-kit, CC0/CC-BY): sedan-sports. Convertido de GLB para STL.",
+    "bodyStyle": "Real",
+    "drivetrain": "N/A",
+    "eraBand": "Community",
+    "slug": "real_sedan-sports",
+    "stl": "/models/real/kenney_sedan-sports.stl",
+    "print_solid_candidate": "/models/real/kenney_sedan-sports.stl",
+    "raw_study": "/models/real/kenney_sedan-sports.glb",
+    "faces": 3176,
+    "watertight": false,
+    "colors": [
+      [
+        "#e23b3b",
+        "Vermelho"
+      ],
+      [
+        "#1f6feb",
+        "Azul"
+      ],
+      [
+        "#f5f5f5",
+        "Branco"
+      ],
+      [
+        "#111114",
+        "Preto"
+      ],
+      [
+        "#16a34a",
+        "Verde"
+      ],
+      [
+        "#ff8a00",
+        "Laranja"
+      ],
+      [
+        "#c0c0c8",
+        "Prata"
+      ],
+      [
+        "#9fffe0",
+        "Mint"
+      ]
+    ],
+    "surrealFactor": 0,
+    "provenance": "real-cc0"
+  },
+  {
+    "brand": "Kenney (CC0)",
+    "model": "sedan",
+    "category": "real-cc0",
+    "era": "community",
+    "year": "",
+    "referenceFamily": "CC0 Kenney car-kit",
+    "traits": [
+      "real 3D asset",
+      "GLB->STL convertido",
+      "não-watertight (visual)"
+    ],
+    "description": "Modelo 3D real da comunidade (Kenney car-kit, CC0/CC-BY): sedan. Convertido de GLB para STL.",
+    "bodyStyle": "Real",
+    "drivetrain": "N/A",
+    "eraBand": "Community",
+    "slug": "real_sedan",
+    "stl": "/models/real/kenney_sedan.stl",
+    "print_solid_candidate": "/models/real/kenney_sedan.stl",
+    "raw_study": "/models/real/kenney_sedan.glb",
+    "faces": 3096,
+    "watertight": false,
+    "colors": [
+      [
+        "#e23b3b",
+        "Vermelho"
+      ],
+      [
+        "#1f6feb",
+        "Azul"
+      ],
+      [
+        "#f5f5f5",
+        "Branco"
+      ],
+      [
+        "#111114",
+        "Preto"
+      ],
+      [
+        "#16a34a",
+        "Verde"
+      ],
+      [
+        "#ff8a00",
+        "Laranja"
+      ],
+      [
+        "#c0c0c8",
+        "Prata"
+      ],
+      [
+        "#9fffe0",
+        "Mint"
+      ]
+    ],
+    "surrealFactor": 0,
+    "provenance": "real-cc0"
+  },
+  {
+    "brand": "Kenney (CC0)",
+    "model": "suv-luxury",
+    "category": "real-cc0",
+    "era": "community",
+    "year": "",
+    "referenceFamily": "CC0 Kenney car-kit",
+    "traits": [
+      "real 3D asset",
+      "GLB->STL convertido",
+      "não-watertight (visual)"
+    ],
+    "description": "Modelo 3D real da comunidade (Kenney car-kit, CC0/CC-BY): suv-luxury. Convertido de GLB para STL.",
+    "bodyStyle": "Real",
+    "drivetrain": "N/A",
+    "eraBand": "Community",
+    "slug": "real_suv-luxury",
+    "stl": "/models/real/kenney_suv-luxury.stl",
+    "print_solid_candidate": "/models/real/kenney_suv-luxury.stl",
+    "raw_study": "/models/real/kenney_suv-luxury.glb",
+    "faces": 3154,
+    "watertight": false,
+    "colors": [
+      [
+        "#e23b3b",
+        "Vermelho"
+      ],
+      [
+        "#1f6feb",
+        "Azul"
+      ],
+      [
+        "#f5f5f5",
+        "Branco"
+      ],
+      [
+        "#111114",
+        "Preto"
+      ],
+      [
+        "#16a34a",
+        "Verde"
+      ],
+      [
+        "#ff8a00",
+        "Laranja"
+      ],
+      [
+        "#c0c0c8",
+        "Prata"
+      ],
+      [
+        "#9fffe0",
+        "Mint"
+      ]
+    ],
+    "surrealFactor": 0,
+    "provenance": "real-cc0"
+  },
+  {
+    "brand": "Kenney (CC0)",
+    "model": "suv",
+    "category": "real-cc0",
+    "era": "community",
+    "year": "",
+    "referenceFamily": "CC0 Kenney car-kit",
+    "traits": [
+      "real 3D asset",
+      "GLB->STL convertido",
+      "não-watertight (visual)"
+    ],
+    "description": "Modelo 3D real da comunidade (Kenney car-kit, CC0/CC-BY): suv. Convertido de GLB para STL.",
+    "bodyStyle": "Real",
+    "drivetrain": "N/A",
+    "eraBand": "Community",
+    "slug": "real_suv",
+    "stl": "/models/real/kenney_suv.stl",
+    "print_solid_candidate": "/models/real/kenney_suv.stl",
+    "raw_study": "/models/real/kenney_suv.glb",
+    "faces": 3724,
+    "watertight": false,
+    "colors": [
+      [
+        "#e23b3b",
+        "Vermelho"
+      ],
+      [
+        "#1f6feb",
+        "Azul"
+      ],
+      [
+        "#f5f5f5",
+        "Branco"
+      ],
+      [
+        "#111114",
+        "Preto"
+      ],
+      [
+        "#16a34a",
+        "Verde"
+      ],
+      [
+        "#ff8a00",
+        "Laranja"
+      ],
+      [
+        "#c0c0c8",
+        "Prata"
+      ],
+      [
+        "#9fffe0",
+        "Mint"
+      ]
+    ],
+    "surrealFactor": 0,
+    "provenance": "real-cc0"
+  },
+  {
+    "brand": "Kenney (CC0)",
+    "model": "taxi",
+    "category": "real-cc0",
+    "era": "community",
+    "year": "",
+    "referenceFamily": "CC0 Kenney car-kit",
+    "traits": [
+      "real 3D asset",
+      "GLB->STL convertido",
+      "não-watertight (visual)"
+    ],
+    "description": "Modelo 3D real da comunidade (Kenney car-kit, CC0/CC-BY): taxi. Convertido de GLB para STL.",
+    "bodyStyle": "Real",
+    "drivetrain": "N/A",
+    "eraBand": "Community",
+    "slug": "real_taxi",
+    "stl": "/models/real/kenney_taxi.stl",
+    "print_solid_candidate": "/models/real/kenney_taxi.stl",
+    "raw_study": "/models/real/kenney_taxi.glb",
+    "faces": 3162,
+    "watertight": false,
+    "colors": [
+      [
+        "#e23b3b",
+        "Vermelho"
+      ],
+      [
+        "#1f6feb",
+        "Azul"
+      ],
+      [
+        "#f5f5f5",
+        "Branco"
+      ],
+      [
+        "#111114",
+        "Preto"
+      ],
+      [
+        "#16a34a",
+        "Verde"
+      ],
+      [
+        "#ff8a00",
+        "Laranja"
+      ],
+      [
+        "#c0c0c8",
+        "Prata"
+      ],
+      [
+        "#9fffe0",
+        "Mint"
+      ]
+    ],
+    "surrealFactor": 0,
+    "provenance": "real-cc0"
+  },
+  {
+    "brand": "Kenney (CC0)",
+    "model": "tractor-police",
+    "category": "real-cc0",
+    "era": "community",
+    "year": "",
+    "referenceFamily": "CC0 Kenney car-kit",
+    "traits": [
+      "real 3D asset",
+      "GLB->STL convertido",
+      "não-watertight (visual)"
+    ],
+    "description": "Modelo 3D real da comunidade (Kenney car-kit, CC0/CC-BY): tractor-police. Convertido de GLB para STL.",
+    "bodyStyle": "Real",
+    "drivetrain": "N/A",
+    "eraBand": "Community",
+    "slug": "real_tractor-police",
+    "stl": "/models/real/kenney_tractor-police.stl",
+    "print_solid_candidate": "/models/real/kenney_tractor-police.stl",
+    "raw_study": "/models/real/kenney_tractor-police.glb",
+    "faces": 3592,
+    "watertight": false,
+    "colors": [
+      [
+        "#e23b3b",
+        "Vermelho"
+      ],
+      [
+        "#1f6feb",
+        "Azul"
+      ],
+      [
+        "#f5f5f5",
+        "Branco"
+      ],
+      [
+        "#111114",
+        "Preto"
+      ],
+      [
+        "#16a34a",
+        "Verde"
+      ],
+      [
+        "#ff8a00",
+        "Laranja"
+      ],
+      [
+        "#c0c0c8",
+        "Prata"
+      ],
+      [
+        "#9fffe0",
+        "Mint"
+      ]
+    ],
+    "surrealFactor": 0,
+    "provenance": "real-cc0"
+  },
+  {
+    "brand": "Kenney (CC0)",
+    "model": "tractor-shovel",
+    "category": "real-cc0",
+    "era": "community",
+    "year": "",
+    "referenceFamily": "CC0 Kenney car-kit",
+    "traits": [
+      "real 3D asset",
+      "GLB->STL convertido",
+      "não-watertight (visual)"
+    ],
+    "description": "Modelo 3D real da comunidade (Kenney car-kit, CC0/CC-BY): tractor-shovel. Convertido de GLB para STL.",
+    "bodyStyle": "Real",
+    "drivetrain": "N/A",
+    "eraBand": "Community",
+    "slug": "real_tractor-shovel",
+    "stl": "/models/real/kenney_tractor-shovel.stl",
+    "print_solid_candidate": "/models/real/kenney_tractor-shovel.stl",
+    "raw_study": "/models/real/kenney_tractor-shovel.glb",
+    "faces": 4026,
+    "watertight": false,
+    "colors": [
+      [
+        "#e23b3b",
+        "Vermelho"
+      ],
+      [
+        "#1f6feb",
+        "Azul"
+      ],
+      [
+        "#f5f5f5",
+        "Branco"
+      ],
+      [
+        "#111114",
+        "Preto"
+      ],
+      [
+        "#16a34a",
+        "Verde"
+      ],
+      [
+        "#ff8a00",
+        "Laranja"
+      ],
+      [
+        "#c0c0c8",
+        "Prata"
+      ],
+      [
+        "#9fffe0",
+        "Mint"
+      ]
+    ],
+    "surrealFactor": 0,
+    "provenance": "real-cc0"
+  },
+  {
+    "brand": "Kenney (CC0)",
+    "model": "tractor",
+    "category": "real-cc0",
+    "era": "community",
+    "year": "",
+    "referenceFamily": "CC0 Kenney car-kit",
+    "traits": [
+      "real 3D asset",
+      "GLB->STL convertido",
+      "não-watertight (visual)"
+    ],
+    "description": "Modelo 3D real da comunidade (Kenney car-kit, CC0/CC-BY): tractor. Convertido de GLB para STL.",
+    "bodyStyle": "Real",
+    "drivetrain": "N/A",
+    "eraBand": "Community",
+    "slug": "real_tractor",
+    "stl": "/models/real/kenney_tractor.stl",
+    "print_solid_candidate": "/models/real/kenney_tractor.stl",
+    "raw_study": "/models/real/kenney_tractor.glb",
+    "faces": 3218,
+    "watertight": false,
+    "colors": [
+      [
+        "#e23b3b",
+        "Vermelho"
+      ],
+      [
+        "#1f6feb",
+        "Azul"
+      ],
+      [
+        "#f5f5f5",
+        "Branco"
+      ],
+      [
+        "#111114",
+        "Preto"
+      ],
+      [
+        "#16a34a",
+        "Verde"
+      ],
+      [
+        "#ff8a00",
+        "Laranja"
+      ],
+      [
+        "#c0c0c8",
+        "Prata"
+      ],
+      [
+        "#9fffe0",
+        "Mint"
+      ]
+    ],
+    "surrealFactor": 0,
+    "provenance": "real-cc0"
+  },
+  {
+    "brand": "Kenney (CC0)",
+    "model": "truck-flat",
+    "category": "real-cc0",
+    "era": "community",
+    "year": "",
+    "referenceFamily": "CC0 Kenney car-kit",
+    "traits": [
+      "real 3D asset",
+      "GLB->STL convertido",
+      "não-watertight (visual)"
+    ],
+    "description": "Modelo 3D real da comunidade (Kenney car-kit, CC0/CC-BY): truck-flat. Convertido de GLB para STL.",
+    "bodyStyle": "Real",
+    "drivetrain": "N/A",
+    "eraBand": "Community",
+    "slug": "real_truck-flat",
+    "stl": "/models/real/kenney_truck-flat.stl",
+    "print_solid_candidate": "/models/real/kenney_truck-flat.stl",
+    "raw_study": "/models/real/kenney_truck-flat.glb",
+    "faces": 3760,
+    "watertight": false,
+    "colors": [
+      [
+        "#e23b3b",
+        "Vermelho"
+      ],
+      [
+        "#1f6feb",
+        "Azul"
+      ],
+      [
+        "#f5f5f5",
+        "Branco"
+      ],
+      [
+        "#111114",
+        "Preto"
+      ],
+      [
+        "#16a34a",
+        "Verde"
+      ],
+      [
+        "#ff8a00",
+        "Laranja"
+      ],
+      [
+        "#c0c0c8",
+        "Prata"
+      ],
+      [
+        "#9fffe0",
+        "Mint"
+      ]
+    ],
+    "surrealFactor": 0,
+    "provenance": "real-cc0"
+  },
+  {
+    "brand": "Kenney (CC0)",
+    "model": "truck",
+    "category": "real-cc0",
+    "era": "community",
+    "year": "",
+    "referenceFamily": "CC0 Kenney car-kit",
+    "traits": [
+      "real 3D asset",
+      "GLB->STL convertido",
+      "não-watertight (visual)"
+    ],
+    "description": "Modelo 3D real da comunidade (Kenney car-kit, CC0/CC-BY): truck. Convertido de GLB para STL.",
+    "bodyStyle": "Real",
+    "drivetrain": "N/A",
+    "eraBand": "Community",
+    "slug": "real_truck",
+    "stl": "/models/real/kenney_truck.stl",
+    "print_solid_candidate": "/models/real/kenney_truck.stl",
+    "raw_study": "/models/real/kenney_truck.glb",
+    "faces": 3156,
+    "watertight": false,
+    "colors": [
+      [
+        "#e23b3b",
+        "Vermelho"
+      ],
+      [
+        "#1f6feb",
+        "Azul"
+      ],
+      [
+        "#f5f5f5",
+        "Branco"
+      ],
+      [
+        "#111114",
+        "Preto"
+      ],
+      [
+        "#16a34a",
+        "Verde"
+      ],
+      [
+        "#ff8a00",
+        "Laranja"
+      ],
+      [
+        "#c0c0c8",
+        "Prata"
+      ],
+      [
+        "#9fffe0",
+        "Mint"
+      ]
+    ],
+    "surrealFactor": 0,
+    "provenance": "real-cc0"
+  },
+  {
+    "brand": "Kenney (CC0)",
+    "model": "van",
+    "category": "real-cc0",
+    "era": "community",
+    "year": "",
+    "referenceFamily": "CC0 Kenney car-kit",
+    "traits": [
+      "real 3D asset",
+      "GLB->STL convertido",
+      "não-watertight (visual)"
+    ],
+    "description": "Modelo 3D real da comunidade (Kenney car-kit, CC0/CC-BY): van. Convertido de GLB para STL.",
+    "bodyStyle": "Real",
+    "drivetrain": "N/A",
+    "eraBand": "Community",
+    "slug": "real_van",
+    "stl": "/models/real/kenney_van.stl",
+    "print_solid_candidate": "/models/real/kenney_van.stl",
+    "raw_study": "/models/real/kenney_van.glb",
+    "faces": 3154,
+    "watertight": false,
+    "colors": [
+      [
+        "#e23b3b",
+        "Vermelho"
+      ],
+      [
+        "#1f6feb",
+        "Azul"
+      ],
+      [
+        "#f5f5f5",
+        "Branco"
+      ],
+      [
+        "#111114",
+        "Preto"
+      ],
+      [
+        "#16a34a",
+        "Verde"
+      ],
+      [
+        "#ff8a00",
+        "Laranja"
+      ],
+      [
+        "#c0c0c8",
+        "Prata"
+      ],
+      [
+        "#9fffe0",
+        "Mint"
+      ]
+    ],
+    "surrealFactor": 0,
+    "provenance": "real-cc0"
+  },
+  {
+    "brand": "Khronos (CC0)",
+    "model": "CarConcept",
+    "category": "real-cc0",
+    "era": "community",
+    "year": "",
+    "referenceFamily": "CC0 Khronos Sample Models",
+    "traits": [
+      "real 3D asset",
+      "GLB->STL convertido",
+      "não-watertight (visual)"
+    ],
+    "description": "Modelo 3D real da comunidade (Khronos Sample Models, CC0/CC-BY): CarConcept. Convertido de GLB para STL.",
+    "bodyStyle": "Real",
+    "drivetrain": "N/A",
+    "eraBand": "Community",
+    "slug": "real_carconcept",
+    "stl": "/models/real/khronos_CarConcept.stl",
+    "print_solid_candidate": "/models/real/khronos_CarConcept.stl",
+    "raw_study": "/models/real/khronos_CarConcept.glb",
+    "faces": 218685,
+    "watertight": false,
+    "colors": [
+      [
+        "#e23b3b",
+        "Vermelho"
+      ],
+      [
+        "#1f6feb",
+        "Azul"
+      ],
+      [
+        "#f5f5f5",
+        "Branco"
+      ],
+      [
+        "#111114",
+        "Preto"
+      ],
+      [
+        "#16a34a",
+        "Verde"
+      ],
+      [
+        "#ff8a00",
+        "Laranja"
+      ],
+      [
+        "#c0c0c8",
+        "Prata"
+      ],
+      [
+        "#9fffe0",
+        "Mint"
+      ]
+    ],
+    "surrealFactor": 0,
+    "provenance": "real-cc0"
+  },
+  {
+    "brand": "Khronos (CC0)",
+    "model": "CesiumMilkTruck",
+    "category": "real-cc0",
+    "era": "community",
+    "year": "",
+    "referenceFamily": "CC0 Khronos Sample Models",
+    "traits": [
+      "real 3D asset",
+      "GLB->STL convertido",
+      "não-watertight (visual)"
+    ],
+    "description": "Modelo 3D real da comunidade (Khronos Sample Models, CC0/CC-BY): CesiumMilkTruck. Convertido de GLB para STL.",
+    "bodyStyle": "Real",
+    "drivetrain": "N/A",
+    "eraBand": "Community",
+    "slug": "real_cesiummilktruck",
+    "stl": "/models/real/khronos_CesiumMilkTruck.stl",
+    "print_solid_candidate": "/models/real/khronos_CesiumMilkTruck.stl",
+    "raw_study": "/models/real/khronos_CesiumMilkTruck.glb",
+    "faces": 3605,
+    "watertight": false,
+    "colors": [
+      [
+        "#e23b3b",
+        "Vermelho"
+      ],
+      [
+        "#1f6feb",
+        "Azul"
+      ],
+      [
+        "#f5f5f5",
+        "Branco"
+      ],
+      [
+        "#111114",
+        "Preto"
+      ],
+      [
+        "#16a34a",
+        "Verde"
+      ],
+      [
+        "#ff8a00",
+        "Laranja"
+      ],
+      [
+        "#c0c0c8",
+        "Prata"
+      ],
+      [
+        "#9fffe0",
+        "Mint"
+      ]
+    ],
+    "surrealFactor": 0,
+    "provenance": "real-cc0"
+  },
+  {
+    "brand": "Khronos (CC0)",
+    "model": "ClearCoatCarPaint",
+    "category": "real-cc0",
+    "era": "community",
+    "year": "",
+    "referenceFamily": "CC0 Khronos Sample Models",
+    "traits": [
+      "real 3D asset",
+      "GLB->STL convertido",
+      "watertight"
+    ],
+    "description": "Modelo 3D real da comunidade (Khronos Sample Models, CC0/CC-BY): ClearCoatCarPaint. Convertido de GLB para STL.",
+    "bodyStyle": "Real",
+    "drivetrain": "N/A",
+    "eraBand": "Community",
+    "slug": "real_clearcoatcarpaint",
+    "stl": "/models/real/khronos_ClearCoatCarPaint.stl",
+    "print_solid_candidate": "/models/real/khronos_ClearCoatCarPaint.stl",
+    "raw_study": "/models/real/khronos_ClearCoatCarPaint.glb",
+    "faces": 3072,
+    "watertight": true,
+    "colors": [
+      [
+        "#e23b3b",
+        "Vermelho"
+      ],
+      [
+        "#1f6feb",
+        "Azul"
+      ],
+      [
+        "#f5f5f5",
+        "Branco"
+      ],
+      [
+        "#111114",
+        "Preto"
+      ],
+      [
+        "#16a34a",
+        "Verde"
+      ],
+      [
+        "#ff8a00",
+        "Laranja"
+      ],
+      [
+        "#c0c0c8",
+        "Prata"
+      ],
+      [
+        "#9fffe0",
+        "Mint"
+      ]
+    ],
+    "surrealFactor": 0,
+    "provenance": "real-cc0"
+  },
+  {
+    "brand": "Khronos (CC0)",
+    "model": "ToyCar",
+    "category": "real-cc0",
+    "era": "community",
+    "year": "",
+    "referenceFamily": "CC0 Khronos Sample Models",
+    "traits": [
+      "real 3D asset",
+      "GLB->STL convertido",
+      "não-watertight (visual)"
+    ],
+    "description": "Modelo 3D real da comunidade (Khronos Sample Models, CC0/CC-BY): ToyCar. Convertido de GLB para STL.",
+    "bodyStyle": "Real",
+    "drivetrain": "N/A",
+    "eraBand": "Community",
+    "slug": "real_toycar",
+    "stl": "/models/real/khronos_ToyCar.stl",
+    "print_solid_candidate": "/models/real/khronos_ToyCar.stl",
+    "raw_study": "/models/real/khronos_ToyCar.glb",
+    "faces": 110933,
+    "watertight": false,
+    "colors": [
+      [
+        "#e23b3b",
+        "Vermelho"
+      ],
+      [
+        "#1f6feb",
+        "Azul"
+      ],
+      [
+        "#f5f5f5",
+        "Branco"
+      ],
+      [
+        "#111114",
+        "Preto"
+      ],
+      [
+        "#16a34a",
+        "Verde"
+      ],
+      [
+        "#ff8a00",
+        "Laranja"
+      ],
+      [
+        "#c0c0c8",
+        "Prata"
+      ],
+      [
+        "#9fffe0",
+        "Mint"
+      ]
+    ],
+    "surrealFactor": 0,
+    "provenance": "real-cc0"
+  },
+  {
+    "brand": "three.js (CC-BY)",
+    "model": "_ferrari",
+    "category": "real-cc0",
+    "era": "community",
+    "year": "",
+    "referenceFamily": "CC0 three.js examples",
+    "traits": [
+      "real 3D asset",
+      "GLB->STL convertido",
+      "não-watertight (visual)"
+    ],
+    "description": "Modelo 3D real da comunidade (three.js examples, CC0/CC-BY): _ferrari. Convertido de GLB para STL.",
+    "bodyStyle": "Real",
+    "drivetrain": "N/A",
+    "eraBand": "Community",
+    "slug": "real__ferrari",
+    "stl": "/models/real/threejs_ferrari.stl",
+    "print_solid_candidate": "/models/real/threejs_ferrari.stl",
+    "raw_study": "/models/real/threejs_ferrari.glb",
+    "faces": 358788,
+    "watertight": false,
+    "colors": [
+      [
+        "#e23b3b",
+        "Vermelho"
+      ],
+      [
+        "#1f6feb",
+        "Azul"
+      ],
+      [
+        "#f5f5f5",
+        "Branco"
+      ],
+      [
+        "#111114",
+        "Preto"
+      ],
+      [
+        "#16a34a",
+        "Verde"
+      ],
+      [
+        "#ff8a00",
+        "Laranja"
+      ],
+      [
+        "#c0c0c8",
+        "Prata"
+      ],
+      [
+        "#9fffe0",
+        "Mint"
+      ]
+    ],
+    "surrealFactor": 0,
+    "provenance": "real-cc0"
+  },
+  {
+    "brand": "ferrari",
+    "model": "Ferrari F40",
+    "slug": "ferrari_f40",
+    "referenceFamily": "Ferrari F40",
+    "traits": [
+      "community real model",
+      "github"
+    ],
+    "description": "Real community 3D model of ferrari Ferrari F40.",
+    "category": "real",
+    "era": "real",
+    "year": "",
+    "faces": 31320,
+    "watertight": true,
+    "stl": "/models/brandreal/ferrari/ferrari_f40.stl",
+    "raw_study": "/models/brandreal/ferrari/ferrari_f40.stl",
+    "print_solid_candidate": "/models/brandreal/ferrari/ferrari_f40.stl"
+  },
+  {
+    "brand": "ferrari",
+    "model": "Ferrari 812 GTS",
+    "slug": "ferrari_812_gts",
+    "referenceFamily": "Ferrari 812 GTS",
+    "traits": [
+      "community real model",
+      "github"
+    ],
+    "description": "Real community 3D model of ferrari Ferrari 812 GTS.",
+    "category": "real",
+    "era": "real",
+    "year": "",
+    "faces": 22724,
+    "watertight": true,
+    "stl": "/models/brandreal/ferrari/ferrari_812_gts.stl",
+    "raw_study": "/models/brandreal/ferrari/ferrari_812_gts.stl",
+    "print_solid_candidate": "/models/brandreal/ferrari/ferrari_812_gts.stl"
+  },
+  {
+    "brand": "ferrari",
+    "model": "Ferrari SF90 Spider",
+    "slug": "ferrari_sf90_spider",
+    "referenceFamily": "Ferrari SF90 Spider",
+    "traits": [
+      "community real model",
+      "github"
+    ],
+    "description": "Real community 3D model of ferrari Ferrari SF90 Spider.",
+    "category": "real",
+    "era": "real",
+    "year": "",
+    "faces": 21542,
+    "watertight": true,
+    "stl": "/models/brandreal/ferrari/ferrari_sf90_spider.stl",
+    "raw_study": "/models/brandreal/ferrari/ferrari_sf90_spider.stl",
+    "print_solid_candidate": "/models/brandreal/ferrari/ferrari_sf90_spider.stl"
+  },
+  {
+    "brand": "ferrari",
+    "model": "Ferrari 599 GTO",
+    "slug": "ferrari_599_gto",
+    "referenceFamily": "Ferrari 599 GTO",
+    "traits": [
+      "community real model",
+      "github"
+    ],
+    "description": "Real community 3D model of ferrari Ferrari 599 GTO.",
+    "category": "real",
+    "era": "real",
+    "year": "",
+    "faces": 18500,
+    "watertight": true,
+    "stl": "/models/brandreal/ferrari/ferrari_599_gto.stl",
+    "raw_study": "/models/brandreal/ferrari/ferrari_599_gto.stl",
+    "print_solid_candidate": "/models/brandreal/ferrari/ferrari_599_gto.stl"
+  },
+  {
+    "brand": "porsche",
+    "model": "Porsche 911 GT3 RS",
+    "slug": "porsche_gt3_rs",
+    "referenceFamily": "Porsche 911 GT3 RS",
+    "traits": [
+      "community real model",
+      "github"
+    ],
+    "description": "Real community 3D model of porsche Porsche 911 GT3 RS.",
+    "category": "real",
+    "era": "real",
+    "year": "",
+    "faces": 26704,
+    "watertight": true,
+    "stl": "/models/brandreal/porsche/porsche_gt3_rs.stl",
+    "raw_study": "/models/brandreal/porsche/porsche_gt3_rs.stl",
+    "print_solid_candidate": "/models/brandreal/porsche/porsche_gt3_rs.stl"
+  },
+  {
+    "brand": "ferrari",
+    "model": "Ferrari 488",
+    "slug": "ferrari_488",
+    "referenceFamily": "Ferrari 488",
+    "traits": [
+      "community real model",
+      "github"
+    ],
+    "description": "Real community 3D model of ferrari Ferrari 488.",
+    "category": "real",
+    "era": "real",
+    "year": "",
+    "faces": 35326,
+    "watertight": true,
+    "stl": "/models/brandreal/ferrari/ferrari_488.stl",
+    "raw_study": "/models/brandreal/ferrari/ferrari_488.stl",
+    "print_solid_candidate": "/models/brandreal/ferrari/ferrari_488.stl"
+  },
+  {
+    "brand": "porsche",
+    "model": "Porsche 911 (Carrera)",
+    "slug": "porsche_911",
+    "referenceFamily": "Porsche 911 (Carrera)",
+    "traits": [
+      "community real model",
+      "github"
+    ],
+    "description": "Real community 3D model of porsche Porsche 911 (Carrera).",
+    "category": "real",
+    "era": "real",
+    "year": "",
+    "faces": 16500,
+    "watertight": true,
+    "stl": "/models/brandreal/porsche/porsche_911.stl",
+    "raw_study": "/models/brandreal/porsche/porsche_911.stl",
+    "print_solid_candidate": "/models/brandreal/porsche/porsche_911.stl"
+  }
+]
