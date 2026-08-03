@@ -1,0 +1,25 @@
+{
+  "brand": "ferrari",
+  "model": "296",
+  "slug": "ferrari_296_interp",
+  "kind": "original-parametric",
+  "license": "original (not OEM CAD)",
+  "designLanguage": "mid_engine_v6",
+  "note": "296-inspired: compact mid-engine, short overhangs, twin-bubble roof.",
+  "dims_mm": [
+    4565,
+    1958,
+    1187,
+    2600
+  ],
+  "watertight": true,
+  "faces": 10608,
+  "extents_m": [
+    5.651,
+    3.139,
+    0.959
+  ],
+  "stl": "/models/cad_original/ferrari/ferrari_296_interp.stl",
+  "step": "/models/cad_original/ferrari/ferrari_296_interp.step",
+  "provenance": "cadquery parametric original (mm dims + design language)"
+}

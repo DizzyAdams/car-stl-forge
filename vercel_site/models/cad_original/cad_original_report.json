@@ -1,0 +1,155 @@
+{
+  "count": 6,
+  "results": [
+    {
+      "brand": "ferrari",
+      "model": "Roma",
+      "slug": "ferrari_roma_interp",
+      "kind": "original-parametric",
+      "license": "original (not OEM CAD)",
+      "designLanguage": "gt_front_engine",
+      "note": "Roma-inspired: long low nose, cab-forward cabin, fastback.",
+      "dims_mm": [
+        4656,
+        1974,
+        1301,
+        2670
+      ],
+      "watertight": true,
+      "faces": 10296,
+      "extents_m": [
+        5.858,
+        3.074,
+        0.997
+      ],
+      "stl": "/models/cad_original/ferrari/ferrari_roma_interp.stl",
+      "step": "/models/cad_original/ferrari/ferrari_roma_interp.step",
+      "provenance": "cadquery parametric original (mm dims + design language)"
+    },
+    {
+      "brand": "ferrari",
+      "model": "296",
+      "slug": "ferrari_296_interp",
+      "kind": "original-parametric",
+      "license": "original (not OEM CAD)",
+      "designLanguage": "mid_engine_v6",
+      "note": "296-inspired: compact mid-engine, short overhangs, twin-bubble roof.",
+      "dims_mm": [
+        4565,
+        1958,
+        1187,
+        2600
+      ],
+      "watertight": true,
+      "faces": 10608,
+      "extents_m": [
+        5.651,
+        3.139,
+        0.959
+      ],
+      "stl": "/models/cad_original/ferrari/ferrari_296_interp.stl",
+      "step": "/models/cad_original/ferrari/ferrari_296_interp.step",
+      "provenance": "cadquery parametric original (mm dims + design language)"
+    },
+    {
+      "brand": "ferrari",
+      "model": "Sf90",
+      "slug": "ferrari_sf90_interp",
+      "kind": "original-parametric",
+      "license": "original (not OEM CAD)",
+      "designLanguage": "hybrid_hyper",
+      "note": "SF90-inspired: wide track, aggressive aero, low canopy.",
+      "dims_mm": [
+        4710,
+        1972,
+        1186,
+        2640
+      ],
+      "watertight": true,
+      "faces": 9868,
+      "extents_m": [
+        5.83,
+        3.059,
+        0.905
+      ],
+      "stl": "/models/cad_original/ferrari/ferrari_sf90_interp.stl",
+      "step": "/models/cad_original/ferrari/ferrari_sf90_interp.step",
+      "provenance": "cadquery parametric original (mm dims + design language)"
+    },
+    {
+      "brand": "porsche",
+      "model": "911",
+      "slug": "porsche_911_interp",
+      "kind": "original-parametric",
+      "license": "original (not OEM CAD)",
+      "designLanguage": "911_silhouette",
+      "note": "911-inspired: rounded fastback, pronounced haunches, wide arches.",
+      "dims_mm": [
+        4519,
+        1852,
+        1298,
+        2450
+      ],
+      "watertight": true,
+      "faces": 10604,
+      "extents_m": [
+        5.502,
+        2.971,
+        0.937
+      ],
+      "stl": "/models/cad_original/porsche/porsche_911_interp.stl",
+      "step": "/models/cad_original/porsche/porsche_911_interp.step",
+      "provenance": "cadquery parametric original (mm dims + design language)"
+    },
+    {
+      "brand": "porsche",
+      "model": "Taycan",
+      "slug": "porsche_taycan_interp",
+      "kind": "original-parametric",
+      "license": "original (not OEM CAD)",
+      "designLanguage": "ev_sport_sedan",
+      "note": "Taycan-inspired: low sleek EV sedan, raked roof, wide stance.",
+      "dims_mm": [
+        4963,
+        1966,
+        1378,
+        2900
+      ],
+      "watertight": true,
+      "faces": 9408,
+      "extents_m": [
+        6.546,
+        3.133,
+        1.115
+      ],
+      "stl": "/models/cad_original/porsche/porsche_taycan_interp.stl",
+      "step": "/models/cad_original/porsche/porsche_taycan_interp.step",
+      "provenance": "cadquery parametric original (mm dims + design language)"
+    },
+    {
+      "brand": "porsche",
+      "model": "918",
+      "slug": "porsche_918_interp",
+      "kind": "original-parametric",
+      "license": "original (not OEM CAD)",
+      "designLanguage": "hybrid_hyper",
+      "note": "918-inspired: low open-top hyper, wide mid body.",
+      "dims_mm": [
+        4545,
+        1940,
+        1167,
+        2650
+      ],
+      "watertight": true,
+      "faces": 10064,
+      "extents_m": [
+        5.626,
+        2.952,
+        0.955
+      ],
+      "stl": "/models/cad_original/porsche/porsche_918_interp.stl",
+      "step": "/models/cad_original/porsche/porsche_918_interp.step",
+      "provenance": "cadquery parametric original (mm dims + design language)"
+    }
+  ]
+}

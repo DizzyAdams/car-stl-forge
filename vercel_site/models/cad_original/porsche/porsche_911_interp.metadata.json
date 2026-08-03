@@ -1,0 +1,25 @@
+{
+  "brand": "porsche",
+  "model": "911",
+  "slug": "porsche_911_interp",
+  "kind": "original-parametric",
+  "license": "original (not OEM CAD)",
+  "designLanguage": "911_silhouette",
+  "note": "911-inspired: rounded fastback, pronounced haunches, wide arches.",
+  "dims_mm": [
+    4519,
+    1852,
+    1298,
+    2450
+  ],
+  "watertight": true,
+  "faces": 10604,
+  "extents_m": [
+    5.502,
+    2.971,
+    0.937
+  ],
+  "stl": "/models/cad_original/porsche/porsche_911_interp.stl",
+  "step": "/models/cad_original/porsche/porsche_911_interp.step",
+  "provenance": "cadquery parametric original (mm dims + design language)"
+}

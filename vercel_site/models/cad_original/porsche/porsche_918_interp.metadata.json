@@ -1,0 +1,25 @@
+{
+  "brand": "porsche",
+  "model": "918",
+  "slug": "porsche_918_interp",
+  "kind": "original-parametric",
+  "license": "original (not OEM CAD)",
+  "designLanguage": "hybrid_hyper",
+  "note": "918-inspired: low open-top hyper, wide mid body.",
+  "dims_mm": [
+    4545,
+    1940,
+    1167,
+    2650
+  ],
+  "watertight": true,
+  "faces": 10064,
+  "extents_m": [
+    5.626,
+    2.952,
+    0.955
+  ],
+  "stl": "/models/cad_original/porsche/porsche_918_interp.stl",
+  "step": "/models/cad_original/porsche/porsche_918_interp.step",
+  "provenance": "cadquery parametric original (mm dims + design language)"
+}

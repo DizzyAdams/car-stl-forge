@@ -1,0 +1,25 @@
+{
+  "brand": "ferrari",
+  "model": "Roma",
+  "slug": "ferrari_roma_interp",
+  "kind": "original-parametric",
+  "license": "original (not OEM CAD)",
+  "designLanguage": "gt_front_engine",
+  "note": "Roma-inspired: long low nose, cab-forward cabin, fastback.",
+  "dims_mm": [
+    4656,
+    1974,
+    1301,
+    2670
+  ],
+  "watertight": true,
+  "faces": 10296,
+  "extents_m": [
+    5.858,
+    3.074,
+    0.997
+  ],
+  "stl": "/models/cad_original/ferrari/ferrari_roma_interp.stl",
+  "step": "/models/cad_original/ferrari/ferrari_roma_interp.step",
+  "provenance": "cadquery parametric original (mm dims + design language)"
+}

@@ -1,0 +1,134 @@
+[
+  {
+    "brand": "ferrari",
+    "model": "296",
+    "slug": "ferrari_296_interp",
+    "kind": "original-parametric",
+    "license": "original (not OEM CAD)",
+    "designLanguage": "mid_engine_v6",
+    "note": "296-inspired: compact mid-engine, short overhangs, twin-bubble roof.",
+    "dims_mm": [
+      4565,
+      1958,
+      1187,
+      2600
+    ],
+    "faces": 10608,
+    "watertight": true,
+    "stl": "/models/cad_original/ferrari/ferrari_296_interp.stl",
+    "cad": "/models/cad_original/ferrari/ferrari_296_interp.step",
+    "source_repo": "original-cadquery-parametric",
+    "url": "https://github.com/DizzyAdams/car-stl-forge",
+    "provenance": "cadquery parametric original (mm dims + design language)"
+  },
+  {
+    "brand": "ferrari",
+    "model": "Roma",
+    "slug": "ferrari_roma_interp",
+    "kind": "original-parametric",
+    "license": "original (not OEM CAD)",
+    "designLanguage": "gt_front_engine",
+    "note": "Roma-inspired: long low nose, cab-forward cabin, fastback.",
+    "dims_mm": [
+      4656,
+      1974,
+      1301,
+      2670
+    ],
+    "faces": 10296,
+    "watertight": true,
+    "stl": "/models/cad_original/ferrari/ferrari_roma_interp.stl",
+    "cad": "/models/cad_original/ferrari/ferrari_roma_interp.step",
+    "source_repo": "original-cadquery-parametric",
+    "url": "https://github.com/DizzyAdams/car-stl-forge",
+    "provenance": "cadquery parametric original (mm dims + design language)"
+  },
+  {
+    "brand": "ferrari",
+    "model": "Sf90",
+    "slug": "ferrari_sf90_interp",
+    "kind": "original-parametric",
+    "license": "original (not OEM CAD)",
+    "designLanguage": "hybrid_hyper",
+    "note": "SF90-inspired: wide track, aggressive aero, low canopy.",
+    "dims_mm": [
+      4710,
+      1972,
+      1186,
+      2640
+    ],
+    "faces": 9868,
+    "watertight": true,
+    "stl": "/models/cad_original/ferrari/ferrari_sf90_interp.stl",
+    "cad": "/models/cad_original/ferrari/ferrari_sf90_interp.step",
+    "source_repo": "original-cadquery-parametric",
+    "url": "https://github.com/DizzyAdams/car-stl-forge",
+    "provenance": "cadquery parametric original (mm dims + design language)"
+  },
+  {
+    "brand": "porsche",
+    "model": "911",
+    "slug": "porsche_911_interp",
+    "kind": "original-parametric",
+    "license": "original (not OEM CAD)",
+    "designLanguage": "911_silhouette",
+    "note": "911-inspired: rounded fastback, pronounced haunches, wide arches.",
+    "dims_mm": [
+      4519,
+      1852,
+      1298,
+      2450
+    ],
+    "faces": 10604,
+    "watertight": true,
+    "stl": "/models/cad_original/porsche/porsche_911_interp.stl",
+    "cad": "/models/cad_original/porsche/porsche_911_interp.step",
+    "source_repo": "original-cadquery-parametric",
+    "url": "https://github.com/DizzyAdams/car-stl-forge",
+    "provenance": "cadquery parametric original (mm dims + design language)"
+  },
+  {
+    "brand": "porsche",
+    "model": "918",
+    "slug": "porsche_918_interp",
+    "kind": "original-parametric",
+    "license": "original (not OEM CAD)",
+    "designLanguage": "hybrid_hyper",
+    "note": "918-inspired: low open-top hyper, wide mid body.",
+    "dims_mm": [
+      4545,
+      1940,
+      1167,
+      2650
+    ],
+    "faces": 10064,
+    "watertight": true,
+    "stl": "/models/cad_original/porsche/porsche_918_interp.stl",
+    "cad": "/models/cad_original/porsche/porsche_918_interp.step",
+    "source_repo": "original-cadquery-parametric",
+    "url": "https://github.com/DizzyAdams/car-stl-forge",
+    "provenance": "cadquery parametric original (mm dims + design language)"
+  },
+  {
+    "brand": "porsche",
+    "model": "Taycan",
+    "slug": "porsche_taycan_interp",
+    "kind": "original-parametric",
+    "license": "original (not OEM CAD)",
+    "designLanguage": "ev_sport_sedan",
+    "note": "Taycan-inspired: low sleek EV sedan, raked roof, wide stance.",
+    "dims_mm": [
+      4963,
+      1966,
+      1378,
+      2900
+    ],
+    "faces": 9408,
+    "watertight": true,
+    "stl": "/models/cad_original/porsche/porsche_taycan_interp.stl",
+    "cad": "/models/cad_original/porsche/porsche_taycan_interp.step",
+    "source_repo": "original-cadquery-parametric",
+    "url": "https://github.com/DizzyAdams/car-stl-forge",
+    "provenance": "cadquery parametric original (mm dims + design language)"
+  }
+]

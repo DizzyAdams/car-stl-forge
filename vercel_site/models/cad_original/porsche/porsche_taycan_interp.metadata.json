@@ -1,0 +1,25 @@
+{
+  "brand": "porsche",
+  "model": "Taycan",
+  "slug": "porsche_taycan_interp",
+  "kind": "original-parametric",
+  "license": "original (not OEM CAD)",
+  "designLanguage": "ev_sport_sedan",
+  "note": "Taycan-inspired: low sleek EV sedan, raked roof, wide stance.",
+  "dims_mm": [
+    4963,
+    1966,
+    1378,
+    2900
+  ],
+  "watertight": true,
+  "faces": 9408,
+  "extents_m": [
+    6.546,
+    3.133,
+    1.115
+  ],
+  "stl": "/models/cad_original/porsche/porsche_taycan_interp.stl",
+  "step": "/models/cad_original/porsche/porsche_taycan_interp.step",
+  "provenance": "cadquery parametric original (mm dims + design language)"
+}
