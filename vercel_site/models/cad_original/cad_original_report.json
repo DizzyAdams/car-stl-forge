@@ -16,11 +16,11 @@
         2670
       ],
       "watertight": true,
-      "faces": 10296,
+      "faces": 10572,
       "extents_m": [
         5.858,
         3.074,
-        0.997
+        1.175
       ],
       "stl": "/models/cad_original/ferrari/ferrari_roma_interp.stl",
       "step": "/models/cad_original/ferrari/ferrari_roma_interp.step",
@@ -91,11 +91,11 @@
         2450
       ],
       "watertight": true,
-      "faces": 10604,
+      "faces": 10988,
       "extents_m": [
         5.502,
         2.971,
-        0.937
+        1.184
       ],
       "stl": "/models/cad_original/porsche/porsche_911_interp.stl",
       "step": "/models/cad_original/porsche/porsche_911_interp.step",
@@ -116,11 +116,11 @@
         2900
       ],
       "watertight": true,
-      "faces": 9408,
+      "faces": 9564,
       "extents_m": [
         6.546,
         3.133,
-        1.115
+        1.215
       ],
       "stl": "/models/cad_original/porsche/porsche_taycan_interp.stl",
       "step": "/models/cad_original/porsche/porsche_taycan_interp.step",

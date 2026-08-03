@@ -13,11 +13,11 @@
     2450
   ],
   "watertight": true,
-  "faces": 10604,
+  "faces": 10988,
   "extents_m": [
     5.502,
     2.971,
-    0.937
+    1.184
   ],
   "stl": "/models/cad_original/porsche/porsche_911_interp.stl",
   "step": "/models/cad_original/porsche/porsche_911_interp.step",

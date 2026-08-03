@@ -13,11 +13,11 @@
     2670
   ],
   "watertight": true,
-  "faces": 10296,
+  "faces": 10572,
   "extents_m": [
     5.858,
     3.074,
-    0.997
+    1.175
   ],
   "stl": "/models/cad_original/ferrari/ferrari_roma_interp.stl",
   "step": "/models/cad_original/ferrari/ferrari_roma_interp.step",

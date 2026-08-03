@@ -2,71 +2,85 @@
   {
     "brand": "ferrari",
     "model": "Ferrari 488",
+    "slug": "ferrari_488",
     "source_repo": "juni0317/cars_three.js",
     "url": "https://github.com/juni0317/cars_three.js",
-    "stl": "/models/brandreal/ferrari/ferrari_488.stl"
+    "stl": "/models/brandreal/ferrari/ferrari_488.stl",
+    "watertight": true,
+    "faces": 40394,
+    "license": "community model shared on GitHub (no LICENSE file in source repo) - not official Ferrari/Porsche.",
+    "provenance": "github-raw-brand"
   },
   {
     "brand": "ferrari",
     "model": "Ferrari 599 GTO",
+    "slug": "ferrari_599_gto",
     "source_repo": "ehtick/3D_Car_Model",
     "url": "https://github.com/ehtick/3D_Car_Model",
-    "stl": "/models/brandreal/ferrari/ferrari_599_gto.stl"
+    "stl": "/models/brandreal/ferrari/ferrari_599_gto.stl",
+    "watertight": true,
+    "faces": 35688,
+    "license": "community model shared on GitHub (no LICENSE file in source repo) - not official Ferrari/Porsche.",
+    "provenance": "github-raw-brand"
   },
   {
     "brand": "ferrari",
     "model": "Ferrari 812 GTS",
+    "slug": "ferrari_812_gts",
     "source_repo": "kaqo2023-design/ferrari_812_gts.glb",
     "url": "https://github.com/kaqo2023-design/ferrari_812_gts.glb",
-    "stl": "/models/brandreal/ferrari/ferrari_812_gts.stl"
+    "stl": "/models/brandreal/ferrari/ferrari_812_gts.stl",
+    "watertight": true,
+    "faces": 37510,
+    "license": "community model shared on GitHub (no LICENSE file in source repo) - not official Ferrari/Porsche.",
+    "provenance": "github-raw-brand"
   },
   {
     "brand": "ferrari",
     "model": "Ferrari F40",
+    "slug": "ferrari_f40",
     "source_repo": "Gakash05/Ferrari-3d-model",
     "url": "https://github.com/Gakash05/Ferrari-3d-model",
-    "stl": "/models/brandreal/ferrari/ferrari_f40.stl"
+    "stl": "/models/brandreal/ferrari/ferrari_f40.stl",
+    "watertight": true,
+    "faces": 48598,
+    "license": "community model shared on GitHub (no LICENSE file in source repo) - not official Ferrari/Porsche.",
+    "provenance": "github-raw-brand"
   },
   {
     "brand": "ferrari",
     "model": "Ferrari SF90 Spider",
+    "slug": "ferrari_sf90_spider",
     "source_repo": "adambit27/3D-Ferrari-Spyder-Car-Model-GLB",
     "url": "https://github.com/adambit27/3D-Ferrari-Spyder-Car-Model-GLB",
-    "stl": "/models/brandreal/ferrari/ferrari_sf90_spider.stl"
-  },
-  {
-    "brand": "mustang",
-    "model": "p51_mustang",
-    "source_repo": "unknown",
-    "url": "",
-    "stl": "/models/brandreal/mustang/p51_mustang.stl"
-  },
-  {
-    "brand": "mustang",
-    "model": "p51_mustang_binary",
-    "source_repo": "unknown",
-    "url": "",
-    "stl": "/models/brandreal/mustang/p51_mustang_binary.stl"
+    "stl": "/models/brandreal/ferrari/ferrari_sf90_spider.stl",
+    "watertight": true,
+    "faces": 37346,
+    "license": "community model shared on GitHub (no LICENSE file in source repo) - not official Ferrari/Porsche.",
+    "provenance": "github-raw-brand"
   },
   {
     "brand": "porsche",
     "model": "Porsche 911 (Carrera)",
+    "slug": "porsche_911",
     "source_repo": "juni0317/cars_three.js",
     "url": "https://github.com/juni0317/cars_three.js",
-    "stl": "/models/brandreal/porsche/porsche_911.stl"
-  },
-  {
-    "brand": "porsche",
-    "model": "porsche_917K",
-    "source_repo": "unknown",
-    "url": "",
-    "stl": "/models/brandreal/porsche/porsche_917K.stl"
+    "stl": "/models/brandreal/porsche/porsche_911.stl",
+    "watertight": true,
+    "faces": 31504,
+    "license": "community model shared on GitHub (no LICENSE file in source repo) - not official Ferrari/Porsche.",
+    "provenance": "github-raw-brand"
   },
   {
     "brand": "porsche",
     "model": "Porsche 911 GT3 RS",
+    "slug": "porsche_gt3_rs",
     "source_repo": "uso-maper/porsche-3d-model",
     "url": "https://github.com/uso-maper/porsche-3d-model",
-    "stl": "/models/brandreal/porsche/porsche_gt3_rs.stl"
+    "stl": "/models/brandreal/porsche/porsche_gt3_rs.stl",
+    "watertight": true,
+    "faces": 40740,
+    "license": "community model shared on GitHub (no LICENSE file in source repo) - not official Ferrari/Porsche.",
+    "provenance": "github-raw-brand"
   }
 ]
