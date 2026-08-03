@@ -1,0 +1,19 @@
+{
+  "brand": "porsche",
+  "model": "Porsche 911 (Carrera)",
+  "slug": "porsche_911",
+  "source_repo": "juni0317/cars_three.js",
+  "url": "https://github.com/juni0317/cars_three.js",
+  "license": "community model shared on GitHub (no LICENSE file in source repo) - not official Ferrari/Porsche.",
+  "provenance": "github-raw-brand",
+  "sourceWatertight": false,
+  "watertight": true,
+  "sourceFaces": 423947,
+  "faces": 16500,
+  "extents": [
+    4.263,
+    1.285,
+    1.926
+  ],
+  "stl": "/models/brandreal/porsche/porsche_911.stl"
+}

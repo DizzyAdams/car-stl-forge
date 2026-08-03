@@ -1,0 +1,19 @@
+{
+  "brand": "ferrari",
+  "model": "Ferrari 812 GTS",
+  "slug": "ferrari_812_gts",
+  "source_repo": "kaqo2023-design/ferrari_812_gts.glb",
+  "url": "https://github.com/kaqo2023-design/ferrari_812_gts.glb",
+  "license": "community model shared on GitHub (no LICENSE file in source repo) - not official Ferrari/Porsche.",
+  "provenance": "github-raw-brand",
+  "sourceWatertight": false,
+  "watertight": true,
+  "sourceFaces": 226870,
+  "faces": 22724,
+  "extents": [
+    1.931,
+    1.168,
+    4.259
+  ],
+  "stl": "/models/brandreal/ferrari/ferrari_812_gts.stl"
+}

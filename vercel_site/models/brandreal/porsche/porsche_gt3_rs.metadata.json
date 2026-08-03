@@ -1,0 +1,19 @@
+{
+  "brand": "porsche",
+  "model": "Porsche 911 GT3 RS",
+  "slug": "porsche_gt3_rs",
+  "source_repo": "uso-maper/porsche-3d-model",
+  "url": "https://github.com/uso-maper/porsche-3d-model",
+  "license": "community model shared on GitHub (no LICENSE file in source repo) - not official Ferrari/Porsche.",
+  "provenance": "github-raw-brand",
+  "sourceWatertight": false,
+  "watertight": true,
+  "sourceFaces": 368800,
+  "faces": 26704,
+  "extents": [
+    1.931,
+    1.346,
+    4.26
+  ],
+  "stl": "/models/brandreal/porsche/porsche_gt3_rs.stl"
+}

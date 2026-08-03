@@ -1,0 +1,19 @@
+{
+  "brand": "ferrari",
+  "model": "Ferrari 488",
+  "slug": "ferrari_488",
+  "source_repo": "juni0317/cars_three.js",
+  "url": "https://github.com/juni0317/cars_three.js",
+  "license": "community model shared on GitHub (no LICENSE file in source repo) - not official Ferrari/Porsche.",
+  "provenance": "github-raw-brand",
+  "sourceWatertight": false,
+  "watertight": true,
+  "sourceFaces": 119062,
+  "faces": 35326,
+  "extents": [
+    4.264,
+    1.171,
+    2.154
+  ],
+  "stl": "/models/brandreal/ferrari/ferrari_488.stl"
+}

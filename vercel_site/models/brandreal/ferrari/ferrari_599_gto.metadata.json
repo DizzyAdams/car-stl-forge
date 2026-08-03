@@ -1,0 +1,19 @@
+{
+  "brand": "ferrari",
+  "model": "Ferrari 599 GTO",
+  "slug": "ferrari_599_gto",
+  "source_repo": "ehtick/3D_Car_Model",
+  "url": "https://github.com/ehtick/3D_Car_Model",
+  "license": "community model shared on GitHub (no LICENSE file in source repo) - not official Ferrari/Porsche.",
+  "provenance": "github-raw-brand",
+  "sourceWatertight": false,
+  "watertight": true,
+  "sourceFaces": 794066,
+  "faces": 18500,
+  "extents": [
+    1.926,
+    1.171,
+    4.256
+  ],
+  "stl": "/models/brandreal/ferrari/ferrari_599_gto.stl"
+}

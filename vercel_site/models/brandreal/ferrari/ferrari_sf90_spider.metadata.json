@@ -1,0 +1,19 @@
+{
+  "brand": "ferrari",
+  "model": "Ferrari SF90 Spider",
+  "slug": "ferrari_sf90_spider",
+  "source_repo": "adambit27/3D-Ferrari-Spyder-Car-Model-GLB",
+  "url": "https://github.com/adambit27/3D-Ferrari-Spyder-Car-Model-GLB",
+  "license": "community model shared on GitHub (no LICENSE file in source repo) - not official Ferrari/Porsche.",
+  "provenance": "github-raw-brand",
+  "sourceWatertight": false,
+  "watertight": true,
+  "sourceFaces": 245339,
+  "faces": 21542,
+  "extents": [
+    2.043,
+    1.11,
+    4.263
+  ],
+  "stl": "/models/brandreal/ferrari/ferrari_sf90_spider.stl"
+}

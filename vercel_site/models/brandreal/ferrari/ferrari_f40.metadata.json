@@ -1,0 +1,19 @@
+{
+  "brand": "ferrari",
+  "model": "Ferrari F40",
+  "slug": "ferrari_f40",
+  "source_repo": "Gakash05/Ferrari-3d-model",
+  "url": "https://github.com/Gakash05/Ferrari-3d-model",
+  "license": "community model shared on GitHub (no LICENSE file in source repo) - not official Ferrari/Porsche.",
+  "provenance": "github-raw-brand",
+  "sourceWatertight": false,
+  "watertight": true,
+  "sourceFaces": 245552,
+  "faces": 31320,
+  "extents": [
+    2.041,
+    1.112,
+    4.26
+  ],
+  "stl": "/models/brandreal/ferrari/ferrari_f40.stl"
+}
